@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2055229509536997496",
+    "created_at": "2026-05-15T11:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055242140905881793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1463718627287318528",
+          "start": 0,
+          "username": "Yionna1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055242140905881793",
+    "in_reply_to_user_id": "1463718627287318528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055229509536997496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yionna1226 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2055229509536997496",
+        "created_at": "2026-05-15T11:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055242140905881793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1463718627287318528",
+              "start": 0,
+              "username": "Yionna1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055242140905881793",
+        "in_reply_to_user_id": "1463718627287318528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055229509536997496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yionna1226 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463718627287318528",
+        "conversation_id": "2055229509536997496",
+        "created_at": "2026-05-15T10:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055229509536997496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055229509536997496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的不太敢跳楼因为我怕会很痛 我记得我人生中最痛的一次是胳膊脱臼 连那个疼痛感我都受不了但我感觉这是生还率最低的自杀方式了 此女是个上吊都活下来了的人 放血放到晕在地上两三个小时又自己醒过来爬到床上睡觉 吞药就更不用说了 其实如果可以保证绝对死亡的话吞药还是我最愿意尝试的方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 2513,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 399
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:58:24.000Z",
+        "description": "🚪88好友位 🚪168图包 🚪188图包➕纯绿陪聊 🚪268图包➕线上半绿陪聊",
+        "id": "1463718627287318528",
+        "location": "距您≦100m",
+        "name": "鸣asuka.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597513750055047169/mG4qlnA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 53,
+          "like_count": 1345,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1513
+        },
+        "username": "Yionna1226",
+        "verified": false
+      }
+    ]
+  }
+}

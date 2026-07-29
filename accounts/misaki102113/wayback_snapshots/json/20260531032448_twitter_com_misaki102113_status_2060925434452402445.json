@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2060921829762490630",
+    "created_at": "2026-05-31T03:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060925434452402445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954092890327855104",
+          "start": 0,
+          "username": "Tipsy_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060925434452402445",
+    "in_reply_to_user_id": "1954092890327855104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060921829762490630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tipsy_07 会的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2060921829762490630",
+        "created_at": "2026-05-31T03:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060925434452402445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954092890327855104",
+              "start": 0,
+              "username": "Tipsy_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060925434452402445",
+        "in_reply_to_user_id": "1954092890327855104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060921829762490630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tipsy_07 会的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2060921829762490630",
+        "created_at": "2026-05-31T03:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060921829762490630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060921829762490630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们会想我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2674,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 548
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 精神状态不正常 我是女同性恋 黄蛆私信拉黑 负能量碎碎念 互fo私",
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058225368885338112/qBPKueFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 25,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 201
+        },
+        "username": "Tipsy_07",
+        "verified": false
+      }
+    ]
+  }
+}

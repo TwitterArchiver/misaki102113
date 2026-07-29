@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2054960576284201117",
+    "created_at": "2026-05-14T21:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T22:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055037702391890213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047499889094123520",
+          "start": 0,
+          "username": "yn_xxxjkjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055037702391890213",
+    "in_reply_to_user_id": "2047499889094123520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054960576284201117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yn_xxxjkjk 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2054960576284201117",
+        "created_at": "2026-05-14T21:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055037702391890213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047499889094123520",
+              "start": 0,
+              "username": "yn_xxxjkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055037702391890213",
+        "in_reply_to_user_id": "2047499889094123520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054960576284201117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn_xxxjkjk 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047499889094123520",
+        "conversation_id": "2054960576284201117",
+        "created_at": "2026-05-14T16:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054960576284201117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054960576284201117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 97,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“​你之前提到喉咙有血腥味、吞咽困难、眼睛发胀。证明你的颈部已经发生了实质性的机械损伤。哪怕你解开了绳子，你的颈部组织可能正在发生延迟性气道水肿。这种肿胀可能在几个小时后才达到高峰，它会像一双看不见的手一样，慢慢地、死死地掐住你的气道，让你在睡眠中窒息”\n\n太好了，希望今天晚上能死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2507,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 396
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "YN2.0",
+        "pinned_tweet_id": "2054935095430254613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 85,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 21
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

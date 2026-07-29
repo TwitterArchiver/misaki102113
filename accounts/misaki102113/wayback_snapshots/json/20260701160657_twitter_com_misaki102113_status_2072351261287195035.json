@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2071963811075313741",
+    "created_at": "2026-07-01T16:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072351261287195035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034150930476896256",
+          "start": 0,
+          "username": "LeeHan80703"
+        },
+        {
+          "end": 26,
+          "id": "1977200375766958082",
+          "start": 13,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072351261287195035",
+    "in_reply_to_user_id": "2034150930476896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071995996649967943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeHan80703 @yvanyvandecw 对于需要靠割手来缓解情绪的人来说，割手必然是很爽的（）因为痛觉可以促进内啡肽的分泌，但如果你不割手，那么割手一定是很痛且不爽的，因为你还不需要用这种方式来获得安宁感。（好像是什么奇怪的悖论？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2071963811075313741",
+        "created_at": "2026-07-01T16:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072351261287195035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034150930476896256",
+              "start": 0,
+              "username": "LeeHan80703"
+            },
+            {
+              "end": 26,
+              "id": "1977200375766958082",
+              "start": 13,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072351261287195035",
+        "in_reply_to_user_id": "2034150930476896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071995996649967943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeHan80703 @yvanyvandecw 对于需要靠割手来缓解情绪的人来说，割手必然是很爽的（）因为痛觉可以促进内啡肽的分泌，但如果你不割手，那么割手一定是很痛且不爽的，因为你还不需要用这种方式来获得安宁感。（好像是什么奇怪的悖论？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034150930476896256",
+        "conversation_id": "2071963811075313741",
+        "created_at": "2026-06-30T16:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071995996649967943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071995996649967943",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071963811075313741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 割手真的很爽吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 2879,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T06:13:27.000Z",
+        "description": "一位普通的高中生|179cm 75kg||ADHD| 爱好：幻想,二次元，听音乐|||||||||无信仰/比较敏感/自卑/想看见尸体/无政治立场/妄想症/自娱自乐/INFP-T/废人/自言自语/随时注销🌍账号/阴暗的人/欢迎互关，无论你是谁，只要不是黄的大多都能接受😁😁😁",
+        "id": "2034150930476896256",
+        "name": "アイスpaiserrha 🇯🇵🇨🇳🇸🇬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069887960502489088/xWWBMv7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "LeeHan80703",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn喵  155cm/44.5kg  💊💊💊🤤😵&🔪🩸😭  \n灌注沐媛喵🥺灌注沐媛谢谢喵🥺🥺🥺\n初二     同类互fo喵😋\n15歲年齡党+天残党+小透明\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超超超级社恐😩\n产地：桂C \n生产日期：2011.06.15 保质期不详",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 375,
+          "like_count": 831,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": true
+      }
+    ]
+  }
+}

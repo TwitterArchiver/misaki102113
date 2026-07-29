@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2052713217882042684",
+    "created_at": "2026-05-08T15:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052772023714365716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052772023714365716",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052713217882042684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052713124952956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyzth6aYAAKRjW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2052713124122472448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyzte0aMAACz1E.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052713125405990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyztjmbIAApua3.jpg",
+        "width": 1013
+      },
+      {
+        "height": 1844,
+        "media_key": "3_2052713125846429696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyztlPbsAAxX9k.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2052713217882042684",
+        "created_at": "2026-05-08T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052772023714365716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052772023714365716",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052713217882042684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052713124952956928",
+            "3_2052713124122472448",
+            "3_2052713125405990912",
+            "3_2052713125846429696"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052713217882042684",
+        "created_at": "2026-05-08T11:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052713217882042684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyTWQcJY0x",
+              "end": 58,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052713217882042684/photo/1",
+              "media_key": "3_2052713124952956928",
+              "start": 35,
+              "url": "https://t.co/PyTWQcJY0x"
+            },
+            {
+              "display_url": "pic.x.com/PyTWQcJY0x",
+              "end": 58,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052713217882042684/photo/1",
+              "media_key": "3_2052713124122472448",
+              "start": 35,
+              "url": "https://t.co/PyTWQcJY0x"
+            },
+            {
+              "display_url": "pic.x.com/PyTWQcJY0x",
+              "end": 58,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052713217882042684/photo/1",
+              "media_key": "3_2052713125405990912",
+              "start": 35,
+              "url": "https://t.co/PyTWQcJY0x"
+            },
+            {
+              "display_url": "pic.x.com/PyTWQcJY0x",
+              "end": 58,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052713217882042684/photo/1",
+              "media_key": "3_2052713125846429696",
+              "start": 35,
+              "url": "https://t.co/PyTWQcJY0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052713217882042684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 659,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都是我的家人，我想和所有人一起幸福快乐的生活下去。一个也不能少🫂 https://t.co/PyTWQcJY0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 2463,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 350
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052692907258450424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 3678,
+          "like_count": 33789,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 9039
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2060410770605941222",
+    "created_at": "2026-05-30T00:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060511875276931103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655982200205238273",
+          "start": 0,
+          "username": "hn6873175266975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060511875276931103",
+    "in_reply_to_user_id": "1655982200205238273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060410770605941222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hn6873175266975 不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2060410770605941222",
+        "created_at": "2026-05-30T00:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060511875276931103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655982200205238273",
+              "start": 0,
+              "username": "hn6873175266975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060511875276931103",
+        "in_reply_to_user_id": "1655982200205238273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060410770605941222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hn6873175266975 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655982200205238273",
+        "conversation_id": "2060410770605941222",
+        "created_at": "2026-05-29T17:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060410770605941222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060410770605941222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应该没人看到所以写一下吧，所以自己果然什么事都做不好，这次也是呐，自己果然烂透了…最后连自己自杀的物品都没备齐。本来想的是普瑞和唑一起吃会无痛的说，最后只能舍曲林和唑吡坦吃，或许这是惩罚吧，开了三盒唑吡坦家里人还藏起来了俩盒，希望可以成功一直睡下去吧，完全不知道会怎么样咕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 2669,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 539
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T17:05:10.000Z",
+        "description": "我讨厌早八\n不鉴证/ 刀剑乱舞 es drb 雀魂麻将 雷 塔科夫等等 有od倾向 缺爱的烂人\n喜欢玩游戏 什么游戏都会试一试\nmtf   🏳️‍⚧\n06.04.25 学中医的大龄药娘\n \n爱人: @sese_x1anyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "sese_x1anyu"
+              }
+            ]
+          }
+        },
+        "id": "1655982200205238273",
+        "location": "河南",
+        "name": "喻🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060284889862438912/pEafUT_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 114,
+          "like_count": 5698,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 535
+        },
+        "username": "hn6873175266975",
+        "verified": true
+      }
+    ]
+  }
+}

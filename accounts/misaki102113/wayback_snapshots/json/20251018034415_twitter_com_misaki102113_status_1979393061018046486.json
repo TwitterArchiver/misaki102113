@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "1979380986623520837",
+    "created_at": "2025-10-18T03:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979393061018046486"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979393061018046486",
+    "in_reply_to_user_id": "1978297494464585728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979380986623520837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去死吧去死吧去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "1979380986623520837",
+        "created_at": "2025-10-18T03:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979393061018046486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979393061018046486",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979380986623520837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去死吧去死吧去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "1979380986623520837",
+        "created_at": "2025-10-18T02:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T03:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979380986623520837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979380986623520837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这么累啊，光是高数和c语言就已经筋疲力尽了，中午饭都没时间吃，雅思作业完全没时间写，花钱上了课感觉也没什么效果，周围的人都好优秀啊，大学生活枯燥的离谱，为了一个虚无缥缈的保研名额卷3年，毕了业赚个1w来块，人生一眼看到头了，这985考的不知道意义在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 68,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

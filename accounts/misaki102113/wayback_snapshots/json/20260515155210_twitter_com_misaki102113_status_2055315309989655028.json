@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2055289891915968656",
+    "created_at": "2026-05-15T15:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055315309989655028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055315309989655028",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055289891915968656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 当然如果心理上还是会在意的话可以穿个冰袖😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2055289888073973760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXbQ4kaAAA8Z1n.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055289889651097600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXbQ-cbAAAFLxN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2055289891915968656",
+        "created_at": "2026-05-15T15:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055315309989655028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055315309989655028",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055289891915968656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 当然如果心理上还是会在意的话可以穿个冰袖😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055289888073973760",
+            "3_2055289889651097600"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055289891915968656",
+        "created_at": "2026-05-15T14:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055289891915968656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFIKWetpzb",
+              "end": 116,
+              "expanded_url": "https://x.com/gdioiui/status/2055289891915968656/photo/1",
+              "media_key": "3_2055289888073973760",
+              "start": 93,
+              "url": "https://t.co/iFIKWetpzb"
+            },
+            {
+              "display_url": "pic.x.com/iFIKWetpzb",
+              "end": 116,
+              "expanded_url": "https://x.com/gdioiui/status/2055289891915968656/photo/1",
+              "media_key": "3_2055289889651097600",
+              "start": 93,
+              "url": "https://t.co/iFIKWetpzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055289891915968656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天三一只穿体恤出去逛了几圈\n朋友说胸挺明显的...\n但是我感觉他们都在看我手上的伤口...\n（三一是个装货...拿着一个半年没用的mp3带着耳机躺在草地上被冷的发抖还不起来....） https://t.co/iFIKWetpzb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 2519,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 404
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 434,
+          "like_count": 3773,
+          "listed_count": 3,
+          "media_count": 1223,
+          "tweet_count": 6606
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

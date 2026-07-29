@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2032363962713719073",
+    "created_at": "2026-03-13T12:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T13:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032426762156781839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818678630824001538",
+          "start": 0,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032426762156781839",
+    "in_reply_to_user_id": "1818678630824001538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032363962713719073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misako_25ji 当你上了大学后就会发现当年拼死拼活都考的那几分一点用都没有，甚至是副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2032363962713719073",
+        "created_at": "2026-03-13T12:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032426762156781839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818678630824001538",
+              "start": 0,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032426762156781839",
+        "in_reply_to_user_id": "1818678630824001538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032363962713719073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misako_25ji 当你上了大学后就会发现当年拼死拼活都考的那几分一点用都没有，甚至是副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818678630824001538",
+        "conversation_id": "2032363962713719073",
+        "created_at": "2026-03-13T07:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032363962713719073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032363962713719073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 815,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考考砸了人生就完蛋了吧。\n唉我现在真的有点想在精神病院里住一辈子了\n与世隔绝 而且不用担心世界上各种各样的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 1906,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "私わ誰?美沙子。星灵。星理。莉莉丝。\n找回最开始的自己。然后。前往何处？\n只是一个杭州普通高三学生罢了。备考中 严重自闭 偶尔社交 爱好众多 啥都不知\n当你遇到困难的时候 你最好打电话给Misako——\nAnother Me：@richelieu_ego",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "richelieu_ego"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "astlinga.github.io",
+                "end": 23,
+                "expanded_url": "http://astlinga.github.io",
+                "start": 0,
+                "url": "https://t.co/fjvpGqmAmf"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "彼得羅巴甫洛夫斯克",
+        "name": "Misako～美沙子喵～🏳️‍⚧️",
+        "pinned_tweet_id": "1984721260514062727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016281666273345536/2HFh_2FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 1259,
+          "like_count": 1734,
+          "listed_count": 8,
+          "media_count": 201,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/fjvpGqmAmf",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046234748608184320"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2046234758120939606",
+    "created_at": "2026-04-20T14:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046234758120939606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ndXLm7TqLx",
+          "end": 42,
+          "expanded_url": "https://x.com/misaki102113/status/2046234758120939606/photo/1",
+          "media_key": "3_2046234748608184320",
+          "start": 19,
+          "url": "https://t.co/ndXLm7TqLx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046234758120939606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧基本上没地方下刀了，下次划右臂吧 https://t.co/ndXLm7TqLx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046234758120939606].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046234758120939606",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046234758120939606"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046234748608184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWvqZXaAAAZ3wI.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 2303,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 258
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

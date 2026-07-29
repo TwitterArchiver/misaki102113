@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2080588109226389628",
+    "created_at": "2026-07-24T11:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080613759312413002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880808636144054273",
+          "start": 0,
+          "username": "yuqian1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080613759312413002",
+    "in_reply_to_user_id": "1880808636144054273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080588109226389628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqian1145 不要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080588079484776448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-71bmaMAAQKwc.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2080588097071554561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-72dHbIAEGPYf.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2080588109226389628",
+        "created_at": "2026-07-24T11:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080613759312413002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880808636144054273",
+              "start": 0,
+              "username": "yuqian1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080613759312413002",
+        "in_reply_to_user_id": "1880808636144054273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080588109226389628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqian1145 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080588079484776448",
+            "3_2080588097071554561"
+          ]
+        },
+        "author_id": "1880808636144054273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080588109226389628",
+        "created_at": "2026-07-24T09:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080588109226389628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtvvaDmEC6",
+              "end": 41,
+              "expanded_url": "https://x.com/yuqian1145/status/2080588109226389628/photo/1",
+              "media_key": "3_2080588079484776448",
+              "start": 18,
+              "url": "https://t.co/OtvvaDmEC6"
+            },
+            {
+              "display_url": "pic.x.com/OtvvaDmEC6",
+              "end": 41,
+              "expanded_url": "https://x.com/yuqian1145/status/2080588109226389628/photo/1",
+              "media_key": "3_2080588097071554561",
+              "start": 18,
+              "url": "https://t.co/OtvvaDmEC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080588109226389628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 375,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晚安咯各位 希望下辈子还能遇见你们 https://t.co/OtvvaDmEC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 2962,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:45:11.000Z",
+        "description": "mtf|无证含糖|HRT🍥 26.04.22|出厂日期 12.06.17|半家长党（?）|成绩倒数|休学|爱发疯|负面帖垃圾桶|缺爱想交朋友私信互fo|友好相处|一只厌恶男性身体的猫猫",
+        "id": "1880808636144054273",
+        "name": "语千🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060303347190808845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069870859045736448/6vlz5DQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 355,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "yuqian1145",
+        "verified": false
+      }
+    ]
+  }
+}

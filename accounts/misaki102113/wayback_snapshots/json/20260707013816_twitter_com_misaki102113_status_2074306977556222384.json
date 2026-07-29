@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2074219735043166454",
+    "created_at": "2026-07-07T01:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074306977556222384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2061773740195921920",
+          "start": 0,
+          "username": "guoxmvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074306977556222384",
+    "in_reply_to_user_id": "2061773740195921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074219735043166454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guoxmvs 呜…不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2074219735043166454",
+        "created_at": "2026-07-07T01:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074306977556222384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "guoxmvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074306977556222384",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074219735043166454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoxmvs 呜…不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061773740195921920",
+        "conversation_id": "2074219735043166454",
+        "created_at": "2026-07-06T19:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074219735043166454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074219735043166454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遗书写完了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 2922,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "11.08.30出厂/自杀未遂/休学中/mtf\n\n时间足够长的话，也足够我遁入虚无了吧",
+        "id": "2061773740195921920",
+        "location": "时间的尽头",
+        "name": "噪声🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062093862416617472/R6as1JuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 99,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "guoxmvs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "1982795232132345885",
+    "created_at": "2025-10-27T13:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982795232132345885"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982795232132345885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么就要机考了，感觉身边的人都好优秀，明明把几乎所有时间都花在学习上了却还是跟不上进度，感觉保研离我越来越远了，每天的时间都被毫无意义的水课和校园跑占据了，这大学生活和我想的完全不一样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "1982795232132345885",
+        "created_at": "2025-10-27T13:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982795232132345885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982795232132345885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么就要机考了，感觉身边的人都好优秀，明明把几乎所有时间都花在学习上了却还是跟不上进度，感觉保研离我越来越远了，每天的时间都被毫无意义的水课和校园跑占据了，这大学生活和我想的完全不一样啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 353,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

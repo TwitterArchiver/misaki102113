@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2058869939650609389",
+    "created_at": "2026-05-25T12:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058894260636926173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040516492479823872",
+          "start": 0,
+          "username": "Verdin14shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058894260636926173",
+    "in_reply_to_user_id": "2040516492479823872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058869939650609389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verdin14shi 抱抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2058869921569030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKTSQnbwAApg8i.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2510,
+        "media_key": "3_2058869930200813568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKTSwxaUAAQ3v0.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2058869939650609389",
+        "created_at": "2026-05-25T12:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058894260636926173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058894260636926173",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058869939650609389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058869921569030144",
+            "3_2058869930200813568"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058869939650609389",
+        "created_at": "2026-05-25T11:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058869939650609389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNZgANFFoe",
+              "end": 70,
+              "expanded_url": "https://x.com/Verdin14shi/status/2058869939650609389/photo/1",
+              "media_key": "3_2058869921569030144",
+              "start": 47,
+              "url": "https://t.co/BNZgANFFoe"
+            },
+            {
+              "display_url": "pic.x.com/BNZgANFFoe",
+              "end": 70,
+              "expanded_url": "https://x.com/Verdin14shi/status/2058869939650609389/photo/1",
+              "media_key": "3_2058869930200813568",
+              "start": 47,
+              "url": "https://t.co/BNZgANFFoe"
+            },
+            {
+              "display_url": "x.com/seeyouinthe299…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/seeyouinthe2999/status/2058785538623316379",
+              "start": 71,
+              "url": "https://t.co/23VXJqJ4A9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058869939650609389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058785538623316379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要是再强一点就好了……你明明可以不用离开的……为什么会这样……\n感觉跟失手杀了人一样难受啊 https://t.co/BNZgANFFoe https://t.co/23VXJqJ4A9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2626,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 501
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 303,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 728
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      }
+    ]
+  }
+}

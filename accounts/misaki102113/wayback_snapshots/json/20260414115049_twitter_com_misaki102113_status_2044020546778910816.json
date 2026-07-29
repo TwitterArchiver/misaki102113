@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2043976205561671924",
+    "created_at": "2026-04-14T11:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044020546778910816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945662305234206720",
+          "start": 0,
+          "username": "AoiLunaStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044020546778910816",
+    "in_reply_to_user_id": "1945662305234206720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044018826753519694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoiLunaStar 暂时不会吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2043976205561671924",
+        "created_at": "2026-04-14T11:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044020546778910816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945662305234206720",
+              "start": 0,
+              "username": "AoiLunaStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044020546778910816",
+        "in_reply_to_user_id": "1945662305234206720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044018826753519694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoiLunaStar 暂时不会吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945662305234206720",
+        "conversation_id": "2043976205561671924",
+        "created_at": "2026-04-14T11:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044018826753519694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044018826753519694",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043976205561671924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 不要自杀啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2230,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 221
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T01:50:31.000Z",
+        "description": "09/2/20，喜欢玩抽象和胡言乱语，还有发癫，水平和智商很低，小学生的水平和能力，喜欢和大家聊天和关注一些新闻，推特经常更新，我本人不参与讨论任何政治话题和内容\n（QQ：3315304485）\n（联系猫猫本人推荐添加主页的QQ号哦，推特的私信不经常看）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FluffyTaffy77",
+                "end": 23,
+                "expanded_url": "http://t.me/FluffyTaffy77",
+                "start": 0,
+                "url": "https://t.co/TOi9F8hvYm"
+              }
+            ]
+          }
+        },
+        "id": "1945662305234206720",
+        "location": "美国迈阿密🇺🇲",
+        "name": "疏影横窗晚风香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041487559986130945/P3NhvXfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1616,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/TOi9F8hvYm",
+        "username": "AoiLunaStar",
+        "verified": false
+      }
+    ]
+  }
+}

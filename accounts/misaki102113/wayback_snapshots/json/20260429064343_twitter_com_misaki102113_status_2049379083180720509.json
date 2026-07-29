@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049379078667677696"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2049379083180720509",
+    "created_at": "2026-04-29T06:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049379083180720509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I52wMfWiCr",
+          "end": 123,
+          "expanded_url": "https://x.com/misaki102113/status/2049379083180720509/photo/1",
+          "media_key": "3_2049379078667677696",
+          "start": 100,
+          "url": "https://t.co/I52wMfWiCr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049379083180720509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我活着只是在浪费他人的生命吧，在群里说负面的消息被人骂了，然后想自杀结果还把好几年的群给封了，好像我死了之后这个世界确实会更好一些吧，但死了的话父母和朋友都会很伤心，所以又不敢去死，只能痛苦的活着 https://t.co/I52wMfWiCr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2049379078667677696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDbafoasAA1FBA.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049379078667677696"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2049379083180720509",
+        "created_at": "2026-04-29T06:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049379083180720509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I52wMfWiCr",
+              "end": 123,
+              "expanded_url": "https://x.com/misaki102113/status/2049379083180720509/photo/1",
+              "media_key": "3_2049379078667677696",
+              "start": 100,
+              "url": "https://t.co/I52wMfWiCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049379083180720509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我活着只是在浪费他人的生命吧，在群里说负面的消息被人骂了，然后想自杀结果还把好几年的群给封了，好像我死了之后这个世界确实会更好一些吧，但死了的话父母和朋友都会很伤心，所以又不敢去死，只能痛苦的活着 https://t.co/I52wMfWiCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 2370,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 293
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

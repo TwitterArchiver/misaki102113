@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2060003044285153330",
+    "created_at": "2026-05-29T14:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060363885820227885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872269942642667520",
+          "start": 0,
+          "username": "Sozyuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060363885820227885",
+    "in_reply_to_user_id": "1872269942642667520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060003044285153330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sozyuku 38"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2060003033212129281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaZ2CbWEAEf2t1.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2060003044285153330",
+        "created_at": "2026-05-29T14:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363885820227885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872269942642667520",
+              "start": 0,
+              "username": "Sozyuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363885820227885",
+        "in_reply_to_user_id": "1872269942642667520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060003044285153330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sozyuku 38"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060003033212129281"
+          ]
+        },
+        "author_id": "1872269942642667520",
+        "conversation_id": "2060003044285153330",
+        "created_at": "2026-05-28T14:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060003044285153330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0akZeKD1R",
+              "end": 283,
+              "expanded_url": "https://x.com/Sozyuku/status/2060003044285153330/photo/1",
+              "media_key": "3_2060003033212129281",
+              "start": 260,
+              "url": "https://t.co/E0akZeKD1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060003044285153330",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 1754953,
+          "like_count": 7937,
+          "quote_count": 50,
+          "reply_count": 12423,
+          "retweet_count": 821
+        },
+        "reply_settings": "everyone",
+        "text": "29–70 arasından şanslı bir numara seçin\n\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n\n✨ 15 numara $1.500’lık bir sürpriz saklıyor\n\n🎉 72 saat içinde 15 kazanan rastgele seçilecek https://t.co/E0akZeKD1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 2669,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 536
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T13:15:36.000Z",
+        "description": "“Sözlerimin yükünü kaldıramıyorum...”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sozyuku",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/sozyuku",
+                "start": 0,
+                "url": "https://t.co/5SnFUCIVRJ"
+              }
+            ]
+          }
+        },
+        "id": "1872269942642667520",
+        "name": "Söz Yükü",
+        "pinned_tweet_id": "2031247141348204617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003202162927767552/MVxP1mzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122290,
+          "following_count": 0,
+          "like_count": 85,
+          "listed_count": 42,
+          "media_count": 9725,
+          "tweet_count": 15641
+        },
+        "url": "https://t.co/5SnFUCIVRJ",
+        "username": "Sozyuku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045118790871273472"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045118801017246009",
+    "created_at": "2026-04-17T12:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045118801017246009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1Vdl6ceXW",
+          "end": 35,
+          "expanded_url": "https://x.com/misaki102113/status/2045118801017246009/photo/1",
+          "media_key": "3_2045118790871273472",
+          "start": 12,
+          "url": "https://t.co/h1Vdl6ceXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045118801017246009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像…还挺漂亮的（？） https://t.co/h1Vdl6ceXW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045118801017246009].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045118801017246009",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045118801017246009"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045118790871273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG4tG1b0AAVyn8.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 2292,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 242
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

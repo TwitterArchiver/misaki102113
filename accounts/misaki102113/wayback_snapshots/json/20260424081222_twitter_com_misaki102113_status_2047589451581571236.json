@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2047572156436169140",
+    "created_at": "2026-04-24T08:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047589451581571236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047589451581571236",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047572156436169140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2047572156436169140",
+        "created_at": "2026-04-24T08:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047589451581571236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047589451581571236",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047572156436169140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "2047572156436169140",
+        "created_at": "2026-04-24T07:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047572156436169140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047572156436169140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "😿午睡了两个半的小时的样子，醒来就在哭..\n\n是一个梦，梦里的学校的场景\n然后中午排队吃饭，排队的时候虽然有点不满管理制度但是也还在想其他无关紧要的东西、比如高年级毕业什么什么的。然后，到窝过后七个人一组进去结果只有六个发糕、虽然后边搞清楚了原来里边有个有多出来一个，别的同学主动想分窝一些但是Eina觉得这样不好然后就笑着拒绝了，那个同学吃了过后收拾完也没表态说那剩下的那个发糕，Eina就拿出手机想点外卖还是什么。然后老师走了进来就把手机收走了、还问是不是浪费粮食....然后Eina好委屈好生气去办公室...（一个小插曲：窝看到桌上有一个文言小故事、因为太激动了没把意思弄懂、以为是说一个人品行端正什么什么的、什么什么有价值的人，反正就是想一定是在讽刺Eina这样未来是没有价值的废物嗯对）其实老师已经好像晕过去了、Eina没有发现，非常的生气就想破坏桌上的一些什么东西、看到些什么贴纸就拿尺子给刮掉...然后就开始恍恍惚惚的不是Eina的第一人称叙事了，第三人称视角是：听到有人在解释那个文言小故事，说正是因为那个同学发现了晕过去的老师使得老师成功得到急救，翻译最后一句那个文言文其实是：这样的人未来一定是很有价值的人。也不知道到底Eina是不是有救出老师，总之到这里Eina在梦里非常难受...好窒息哭也哭不出来....然后忽然醒了过来、全身有点汗、好委屈直接就哭出来了....😿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😿午睡了两个半的小时的样子，醒来就在哭..\n\n是一个梦，梦里的学校的场景"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 2322,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 268
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵\n|2008-\n|MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|国内全平台原创音乐人\n|克服社恐ing🥺😭\n|小群 1020709329\n|烤批\n|Deb\n|内有涩涩内容🫣\n|负面逃生仓⚠血图 @TakeNitrite\n|♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "TakeNitrite"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 5716,
+          "like_count": 178717,
+          "listed_count": 11,
+          "media_count": 288,
+          "tweet_count": 16070
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": true
+      }
+    ]
+  }
+}

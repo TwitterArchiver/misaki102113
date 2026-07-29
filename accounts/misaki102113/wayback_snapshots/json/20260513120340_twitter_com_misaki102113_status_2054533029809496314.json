@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2054504645566046583",
+    "created_at": "2026-05-13T12:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054533029809496314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998347606007914496",
+          "start": 0,
+          "username": "Wlicoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054533029809496314",
+    "in_reply_to_user_id": "1998347606007914496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054504645566046583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wlicoss 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2054504645566046583",
+        "created_at": "2026-05-13T12:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054533029809496314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998347606007914496",
+              "start": 0,
+              "username": "Wlicoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054533029809496314",
+        "in_reply_to_user_id": "1998347606007914496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054504645566046583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wlicoss 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998347606007914496",
+        "conversation_id": "2054504645566046583",
+        "created_at": "2026-05-13T10:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054504645566046583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054504645566046583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情不好的时候，我连个可倾诉的人都没有，渐渐的习惯了一个人，习惯了一个人自我消化所有情绪，然后有坦然接受所有，明明都很努力生活了却又感觉力不从心。即很疲惫又很烦躁，莫名其妙感觉很累。我好像什么都做不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2483,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 377
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T11:03:05.000Z",
+        "description": "低能量，低学历，低情商，俗称三低人",
+        "id": "1998347606007914496",
+        "location": "临沂市兰山区人民广场",
+        "name": "替你抄作业",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050768448020701184/tpYpE-CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 28,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "username": "Wlicoss",
+        "verified": false
+      }
+    ]
+  }
+}

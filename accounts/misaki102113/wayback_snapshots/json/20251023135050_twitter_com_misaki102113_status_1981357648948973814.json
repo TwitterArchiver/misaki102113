@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "1981357648948973814",
+    "created_at": "2025-10-23T13:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T14:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981357648948973814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981357648948973814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你妈的为什么b事儿这么多啊，傻逼水课一天天的一大堆作业，专业课一点时间没有，想打个羽毛球赛时间还和雅思课冲突，我到底是发了什么疯要去学这个雅思啊，踏马的我也不出国，要这个成绩也没啥用，妈的请了假父母还不乐意，我踏马纯纯贱逼，从高三逃离，发现还有四年高三，真几把傻逼，去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "1981357648948973814",
+        "created_at": "2025-10-23T13:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981357648948973814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981357648948973814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈的为什么b事儿这么多啊，傻逼水课一天天的一大堆作业，专业课一点时间没有，想打个羽毛球赛时间还和雅思课冲突，我到底是发了什么疯要去学这个雅思啊，踏马的我也不出国，要这个成绩也没啥用，妈的请了假父母还不乐意，我踏马纯纯贱逼，从高三逃离，发现还有四年高三，真几把傻逼，去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 244,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

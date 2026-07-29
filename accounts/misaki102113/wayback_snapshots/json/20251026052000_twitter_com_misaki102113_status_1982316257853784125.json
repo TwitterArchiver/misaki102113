@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "1982080738473476508",
+    "created_at": "2025-10-26T05:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T06:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982316257853784125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982316257853784125",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982080738473476508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 这种纯纯傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_1982080728381755393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HD68NXkAE5vIx.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "1982080738473476508",
+        "created_at": "2025-10-26T05:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T06:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982316257853784125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982316257853784125",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982080738473476508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 这种纯纯傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982080728381755393"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "conversation_id": "1982080738473476508",
+        "created_at": "2025-10-25T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982080738473476508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxuivFuFoV",
+              "end": 162,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1982080738473476508/photo/1",
+              "media_key": "3_1982080728381755393",
+              "start": 139,
+              "url": "https://t.co/XxuivFuFoV"
+            },
+            {
+              "display_url": "x.com/xiaoguai041003…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/xiaoguai041003/status/1976724367037112554",
+              "start": 163,
+              "url": "https://t.co/eO3FiHPv7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982080738473476508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 47748,
+          "like_count": 78,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976724367037112554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你妈的你个臭表子，你所有外网账号当初是我拿你手机给你操作一全套流程都给你下载的，梯子用的我的 ，我带你入门的，结果没几天账号被锁定连个验证都不会QQ邮箱都找不到 。现在就跟别人说是我封禁你账号我操你妈的，再瞎说就把你所有事说出来。现在依旧借钱不还张口闭口就要钱真不要脸啊🤣 https://t.co/XxuivFuFoV https://t.co/eO3FiHPv7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 287,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|纯绿 |日常and碎碎念|不线下不约 |  推广自辨\n小号@xmmOvO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "xmmOvO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1981294575944864023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13719,
+          "following_count": 337,
+          "like_count": 48965,
+          "listed_count": 20,
+          "media_count": 386,
+          "tweet_count": 10897
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

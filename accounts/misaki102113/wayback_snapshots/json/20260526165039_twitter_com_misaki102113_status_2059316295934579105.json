@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059274914625093632"
+      ],
+      "media_source_tweet_id": [
+        "2059274922753708357"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2059316295934579105",
+    "created_at": "2026-05-26T16:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059316295934579105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053667758001573888",
+          "start": 3,
+          "username": "ymym1BGAy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TdFG1Ts6r0",
+          "end": 50,
+          "expanded_url": "https://x.com/ymym1BGAy/status/2059274922753708357/photo/1",
+          "media_key": "3_2059274914625093632",
+          "start": 27,
+          "url": "https://t.co/TdFG1Ts6r0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059316295934579105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059274922753708357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ymym1BGAy: 俺が切ってあげるね〜💗 https://t.co/TdFG1Ts6r0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1631,
+        "media_key": "3_2059274914625093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQDn9UaAAAQIR4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059274914625093632"
+          ],
+          "media_source_tweet_id": [
+            "2059274922753708357"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2059316295934579105",
+        "created_at": "2026-05-26T16:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059316295934579105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053667758001573888",
+              "start": 3,
+              "username": "ymym1BGAy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdFG1Ts6r0",
+              "end": 50,
+              "expanded_url": "https://x.com/ymym1BGAy/status/2059274922753708357/photo/1",
+              "media_key": "3_2059274914625093632",
+              "start": 27,
+              "url": "https://t.co/TdFG1Ts6r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059316295934579105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059274922753708357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ymym1BGAy: 俺が切ってあげるね〜💗 https://t.co/TdFG1Ts6r0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059274914625093632"
+          ]
+        },
+        "author_id": "2053667758001573888",
+        "conversation_id": "2059274922753708357",
+        "created_at": "2026-05-26T14:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059274922753708357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdFG1Ts6r0",
+              "end": 35,
+              "expanded_url": "https://x.com/ymym1BGAy/status/2059274922753708357/photo/1",
+              "media_key": "3_2059274914625093632",
+              "start": 12,
+              "url": "https://t.co/TdFG1Ts6r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059274922753708357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 9321,
+          "like_count": 1550,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "俺が切ってあげるね〜💗 https://t.co/TdFG1Ts6r0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 2633,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 522
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T02:46:31.000Z",
+        "description": "お絵描き練習アカウント 創作",
+        "id": "2053667758001573888",
+        "location": "成人済",
+        "name": "んと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058543469023690752/ki0jdgJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 36,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 24
+        },
+        "username": "ymym1BGAy",
+        "verified": false
+      }
+    ]
+  }
+}

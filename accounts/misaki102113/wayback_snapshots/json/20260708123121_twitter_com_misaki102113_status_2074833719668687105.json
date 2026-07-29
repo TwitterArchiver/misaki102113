@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2074755547547459685",
+    "created_at": "2026-07-08T12:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074833719668687105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049825426441433090",
+          "start": 0,
+          "username": "AirisTendouX2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074833719668687105",
+    "in_reply_to_user_id": "2049825426441433090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074755547547459685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirisTendouX2K 其实不是药娘也是这样的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2074755547547459685",
+        "created_at": "2026-07-08T12:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074833719668687105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049825426441433090",
+              "start": 0,
+              "username": "AirisTendouX2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074833719668687105",
+        "in_reply_to_user_id": "2049825426441433090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074755547547459685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirisTendouX2K 其实不是药娘也是这样的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049825426441433090",
+        "conversation_id": "2074755547547459685",
+        "created_at": "2026-07-08T07:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074755547547459685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074755547547459685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 550,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘药箱里的可能不止是雌激素和抗雄，还有抗抑郁药，抗躁狂药，情绪稳定剂，安眠药，抗焦虑药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 2931,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od（化掉），但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️（2026/5/31炸柜），以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "pinned_tweet_id": "2068404202834202670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 172,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "AirisTendouX2K",
+        "verified": true
+      }
+    ]
+  }
+}

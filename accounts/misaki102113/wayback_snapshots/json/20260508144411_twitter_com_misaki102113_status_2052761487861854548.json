@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2052372850754171244",
+    "created_at": "2026-05-08T14:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052761487861854548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954092890327855104",
+          "start": 0,
+          "username": "liyhn110314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052761487861854548",
+    "in_reply_to_user_id": "1954092890327855104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052372850754171244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyhn110314 不要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052372837114277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt-OK7bcAArl5e.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2052372850754171244",
+        "created_at": "2026-05-08T14:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052761487861854548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954092890327855104",
+              "start": 0,
+              "username": "liyhn110314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052761487861854548",
+        "in_reply_to_user_id": "1954092890327855104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052372850754171244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyhn110314 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052372837114277888"
+          ]
+        },
+        "author_id": "1954092890327855104",
+        "conversation_id": "2052372850754171244",
+        "created_at": "2026-05-07T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052372850754171244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLEi8OxHPl",
+              "end": 31,
+              "expanded_url": "https://x.com/liyhn110314/status/2052372850754171244/photo/1",
+              "media_key": "3_2052372837114277888",
+              "start": 8,
+              "url": "https://t.co/iLEi8OxHPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052372850754171244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等待一个好日子 https://t.co/iLEi8OxHPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 2463,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 347
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加墙内任何联系方式 我是女同性恋 负能量碎碎念",
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2044517152464543949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050231491800739840/G487qCfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 20,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 110
+        },
+        "username": "liyhn110314",
+        "verified": false
+      }
+    ]
+  }
+}

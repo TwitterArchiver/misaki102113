@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038264725767880705",
+        "3_2038264725738487808"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038264785083793759",
+    "created_at": "2026-03-29T14:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038264785083793759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MpV4JYkz5o",
+          "end": 48,
+          "expanded_url": "https://x.com/misaki102113/status/2038264785083793759/photo/1",
+          "media_key": "3_2038264725767880705",
+          "start": 25,
+          "url": "https://t.co/MpV4JYkz5o"
+        },
+        {
+          "display_url": "pic.x.com/MpV4JYkz5o",
+          "end": 48,
+          "expanded_url": "https://x.com/misaki102113/status/2038264785083793759/photo/1",
+          "media_key": "3_2038264725738487808",
+          "start": 25,
+          "url": "https://t.co/MpV4JYkz5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038264785083793759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喝酒之后很快就惊恐发作了，现在连酒也不能喝了吗😭 https://t.co/MpV4JYkz5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038264725767880705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEle-AmagAEWozN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2038264725738487808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEle-AfaAAAkym_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038264725767880705",
+            "3_2038264725738487808"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038264785083793759",
+        "created_at": "2026-03-29T14:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038264785083793759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpV4JYkz5o",
+              "end": 48,
+              "expanded_url": "https://x.com/misaki102113/status/2038264785083793759/photo/1",
+              "media_key": "3_2038264725767880705",
+              "start": 25,
+              "url": "https://t.co/MpV4JYkz5o"
+            },
+            {
+              "display_url": "pic.x.com/MpV4JYkz5o",
+              "end": 48,
+              "expanded_url": "https://x.com/misaki102113/status/2038264785083793759/photo/1",
+              "media_key": "3_2038264725738487808",
+              "start": 25,
+              "url": "https://t.co/MpV4JYkz5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038264785083793759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒之后很快就惊恐发作了，现在连酒也不能喝了吗😭 https://t.co/MpV4JYkz5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 2159,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 156
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

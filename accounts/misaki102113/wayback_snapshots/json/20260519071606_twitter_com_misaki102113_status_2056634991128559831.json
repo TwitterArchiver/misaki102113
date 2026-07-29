@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2056598454718378079",
+    "created_at": "2026-05-19T07:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056634991128559831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998347606007914496",
+          "start": 0,
+          "username": "Wlicoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056634991128559831",
+    "in_reply_to_user_id": "1998347606007914496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056613814020509917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wlicoss 其实不痛的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2056598454718378079",
+        "created_at": "2026-05-19T07:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056634991128559831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998347606007914496",
+              "start": 0,
+              "username": "Wlicoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056634991128559831",
+        "in_reply_to_user_id": "1998347606007914496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056613814020509917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wlicoss 其实不痛的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998347606007914496",
+        "conversation_id": "2056598454718378079",
+        "created_at": "2026-05-19T05:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056613814020509917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056613814020509917",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056598454718378079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 抱抱，可是好痛啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 2549,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 433
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T11:03:05.000Z",
+        "description": "低能量，低学历，低情商，俗称三低人",
+        "id": "1998347606007914496",
+        "location": "临沂市兰山区人民广场",
+        "name": "替你抄作业",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050768448020701184/tpYpE-CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 14,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "username": "Wlicoss",
+        "verified": false
+      }
+    ]
+  }
+}

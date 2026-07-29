@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "1429933098897051649",
+    "created_at": "2026-04-23T16:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047352537599377807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "701710585423990785",
+          "start": 0,
+          "username": "Uekawakuyuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047352537599377807",
+    "in_reply_to_user_id": "701710585423990785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1429933098897051649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uekawakuyuurei 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "1429933098897051649",
+        "created_at": "2026-04-23T16:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047352537599377807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "701710585423990785",
+              "start": 0,
+              "username": "Uekawakuyuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047352537599377807",
+        "in_reply_to_user_id": "701710585423990785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1429933098897051649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uekawakuyuurei 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "701710585423990785",
+        "conversation_id": "1429933098897051649",
+        "created_at": "2021-08-23T22:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2021-08-23T22:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1429933098897051649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1429933098897051649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 0,
+          "like_count": 3573,
+          "quote_count": 543,
+          "reply_count": 1735,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "好想在死之前喝上一大杯冰可乐呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 2317,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 265
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-22T10:10:15.000Z",
+        "description": "",
+        "id": "701710585423990785",
+        "name": "蛍",
+        "pinned_tweet_id": "1390210883184250885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378912446782394368/icyGMaK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14548,
+          "following_count": 1195,
+          "like_count": 75297,
+          "listed_count": 102,
+          "media_count": 108,
+          "tweet_count": 2865
+        },
+        "username": "Uekawakuyuurei",
+        "verified": false
+      }
+    ]
+  }
+}

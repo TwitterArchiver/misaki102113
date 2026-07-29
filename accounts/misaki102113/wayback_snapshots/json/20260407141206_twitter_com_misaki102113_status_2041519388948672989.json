@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2041358034774241416",
+    "created_at": "2026-04-07T14:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041519388948672989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486310579287764998",
+          "start": 0,
+          "username": "tianhaizou"
+        },
+        {
+          "end": 25,
+          "id": "2009594484989026307",
+          "start": 12,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041519388948672989",
+    "in_reply_to_user_id": "1486310579287764998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041432198478512340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianhaizou @XiuJingDe953 只是为了让自己在不安中冷静下来，毕竟痛觉是所有不确定的事情中最能确定的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2041358034774241416",
+        "created_at": "2026-04-07T14:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041519388948672989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486310579287764998",
+              "start": 0,
+              "username": "tianhaizou"
+            },
+            {
+              "end": 25,
+              "id": "2009594484989026307",
+              "start": 12,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041519388948672989",
+        "in_reply_to_user_id": "1486310579287764998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041432198478512340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianhaizou @XiuJingDe953 只是为了让自己在不安中冷静下来，毕竟痛觉是所有不确定的事情中最能确定的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486310579287764998",
+        "conversation_id": "2041358034774241416",
+        "created_at": "2026-04-07T08:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041432198478512340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041432198478512340",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041358034774241416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 感觉自残蛮可怕的，不知道得经历啥事怎样的精神状态会选择自残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 2200,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 200
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T12:10:38.000Z",
+        "description": "",
+        "id": "1486310579287764998",
+        "name": "奏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040008051873501184/hFgVrkqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 264,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 550
+        },
+        "username": "tianhaizou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 86,
+          "like_count": 634,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 229
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

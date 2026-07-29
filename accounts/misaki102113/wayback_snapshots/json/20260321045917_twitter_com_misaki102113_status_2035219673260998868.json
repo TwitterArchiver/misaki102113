@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2034972346059300913",
+    "created_at": "2026-03-21T04:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035219673260998868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035219673260998868",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034972346059300913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori 别自杀好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2034972325658148864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2sjGaawAAGv8E.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2034972334357172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2sjm0bUAAzvIs.jpg",
+        "width": 780
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2034972332276817926",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2sjfEboAYAeFt.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2034972337196630016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2sjxZaAAAVCwL.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2034972346059300913",
+        "created_at": "2026-03-21T04:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035219673260998868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035219673260998868",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034972346059300913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori 别自杀好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034972325658148864",
+            "3_2034972334357172224",
+            "3_2034972332276817926",
+            "3_2034972337196630016"
+          ]
+        },
+        "author_id": "1847025525610762240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034972346059300913",
+        "created_at": "2026-03-20T12:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034972346059300913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLromX9PwQ",
+              "end": 62,
+              "expanded_url": "https://x.com/KS_Nitori/status/2034972346059300913/photo/1",
+              "media_key": "3_2034972325658148864",
+              "start": 39,
+              "url": "https://t.co/oLromX9PwQ"
+            },
+            {
+              "display_url": "pic.x.com/oLromX9PwQ",
+              "end": 62,
+              "expanded_url": "https://x.com/KS_Nitori/status/2034972346059300913/photo/1",
+              "media_key": "3_2034972334357172224",
+              "start": 39,
+              "url": "https://t.co/oLromX9PwQ"
+            },
+            {
+              "display_url": "pic.x.com/oLromX9PwQ",
+              "end": 62,
+              "expanded_url": "https://x.com/KS_Nitori/status/2034972346059300913/photo/1",
+              "media_key": "3_2034972332276817926",
+              "start": 39,
+              "url": "https://t.co/oLromX9PwQ"
+            },
+            {
+              "display_url": "pic.x.com/oLromX9PwQ",
+              "end": 62,
+              "expanded_url": "https://x.com/KS_Nitori/status/2034972346059300913/photo/1",
+              "media_key": "3_2034972337196630016",
+              "start": 39,
+              "url": "https://t.co/oLromX9PwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034972346059300913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2211,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神状态可能有些不太好，可能会 НЯПОКА了，所以为了纪念先把遗像放在这罢 https://t.co/oLromX9PwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 2077,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1816,
+          "like_count": 12476,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      }
+    ]
+  }
+}

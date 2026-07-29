@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2073631983167541378",
+    "created_at": "2026-07-05T09:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073696011319751072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033766875478282240",
+          "start": 0,
+          "username": "nek0114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073696011319751072",
+    "in_reply_to_user_id": "2033766875478282240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073631983167541378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nek0114514 ？？？不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2073631983167541378",
+        "created_at": "2026-07-05T09:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073696011319751072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033766875478282240",
+              "start": 0,
+              "username": "nek0114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073696011319751072",
+        "in_reply_to_user_id": "2033766875478282240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073631983167541378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nek0114514 ？？？不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033766875478282240",
+        "conversation_id": "2073631983167541378",
+        "created_at": "2026-07-05T04:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073631983167541378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073631983167541378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过几个小时自杀 这毕竟不是我大号 只是告知防止别人担心 放心你们找不到我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 2908,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T04:49:40.000Z",
+        "description": "神秘小跨 可能是mtx 10后小登 称呼随意 163cm46kg 性取向男 不约\n目前不打算吃雌二醇 半pass 男的认为我是男的 网上部分女的认为我是女的\n疑似bpd和精神分裂症但我不管不查不治 爱改花刀不od 人很怪",
+        "id": "2033766875478282240",
+        "name": "貓 貓 入🏳️‍⚧️",
+        "pinned_tweet_id": "2067536273498136637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067437189386960896/WgcMkM4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 102,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "nek0114514",
+        "verified": false
+      }
+    ]
+  }
+}

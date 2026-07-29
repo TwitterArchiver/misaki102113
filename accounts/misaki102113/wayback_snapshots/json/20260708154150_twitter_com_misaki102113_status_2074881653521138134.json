@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074881631719247872",
+        "3_2074881628506333184",
+        "3_2074881631773765634"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2074881653521138134",
+    "created_at": "2026-07-08T15:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074881653521138134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vV6e0yj4A",
+          "end": 36,
+          "expanded_url": "https://x.com/misaki102113/status/2074881653521138134/photo/1",
+          "media_key": "3_2074881631719247872",
+          "start": 13,
+          "url": "https://t.co/1vV6e0yj4A"
+        },
+        {
+          "display_url": "pic.x.com/1vV6e0yj4A",
+          "end": 36,
+          "expanded_url": "https://x.com/misaki102113/status/2074881653521138134/photo/1",
+          "media_key": "3_2074881628506333184",
+          "start": 13,
+          "url": "https://t.co/1vV6e0yj4A"
+        },
+        {
+          "display_url": "pic.x.com/1vV6e0yj4A",
+          "end": 36,
+          "expanded_url": "https://x.com/misaki102113/status/2074881653521138134/photo/1",
+          "media_key": "3_2074881631773765634",
+          "start": 13,
+          "url": "https://t.co/1vV6e0yj4A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074881653521138134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心情不好我就这么割割割割 https://t.co/1vV6e0yj4A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074881631719247872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt12dGb0AAelbQ.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074881628506333184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt12RIaoAA0Y7Y.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074881631773765634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt12dTbsAIqShV.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074881631719247872",
+            "3_2074881628506333184",
+            "3_2074881631773765634"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2074881653521138134",
+        "created_at": "2026-07-08T15:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074881653521138134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vV6e0yj4A",
+              "end": 36,
+              "expanded_url": "https://x.com/misaki102113/status/2074881653521138134/photo/1",
+              "media_key": "3_2074881631719247872",
+              "start": 13,
+              "url": "https://t.co/1vV6e0yj4A"
+            },
+            {
+              "display_url": "pic.x.com/1vV6e0yj4A",
+              "end": 36,
+              "expanded_url": "https://x.com/misaki102113/status/2074881653521138134/photo/1",
+              "media_key": "3_2074881628506333184",
+              "start": 13,
+              "url": "https://t.co/1vV6e0yj4A"
+            },
+            {
+              "display_url": "pic.x.com/1vV6e0yj4A",
+              "end": 36,
+              "expanded_url": "https://x.com/misaki102113/status/2074881653521138134/photo/1",
+              "media_key": "3_2074881631773765634",
+              "start": 13,
+              "url": "https://t.co/1vV6e0yj4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074881653521138134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情不好我就这么割割割割 https://t.co/1vV6e0yj4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 2935,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

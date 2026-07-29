@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2051258333701771693",
+    "created_at": "2026-05-04T14:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051312571874205852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998347606007914496",
+          "start": 0,
+          "username": "Wlicoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051312571874205852",
+    "in_reply_to_user_id": "1998347606007914496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051310842805715427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wlicoss 但是我感觉酗酒只是在逃避现实吧，然后频繁的过量饮酒也给别人带来了麻烦，所以不想再喝酒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2051258333701771693",
+        "created_at": "2026-05-04T14:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051312571874205852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998347606007914496",
+              "start": 0,
+              "username": "Wlicoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051312571874205852",
+        "in_reply_to_user_id": "1998347606007914496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051310842805715427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wlicoss 但是我感觉酗酒只是在逃避现实吧，然后频繁的过量饮酒也给别人带来了麻烦，所以不想再喝酒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998347606007914496",
+        "conversation_id": "2051258333701771693",
+        "created_at": "2026-05-04T14:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051310842805715427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051310842805715427",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051258333701771693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 朋友，我宁愿您酗酒成瘾也不要割自己了好嘛😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 2418,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 329
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T11:03:05.000Z",
+        "description": "低能量，低学历，低情商，俗称三低人",
+        "id": "1998347606007914496",
+        "location": "临沂市兰山区人民广场",
+        "name": "替你抄作业",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050768448020701184/tpYpE-CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 32,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "Wlicoss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2059564252915171563",
+    "created_at": "2026-05-27T09:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059573954810106014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059573954810106014",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059564252915171563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy 抱抱你…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2059563467405942784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUKD8MaYAAw3TP.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2059564252915171563",
+        "created_at": "2026-05-27T09:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059573954810106014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059573954810106014",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059564252915171563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 抱抱你…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059563467405942784"
+          ]
+        },
+        "author_id": "1824390995754225667",
+        "conversation_id": "2059564252915171563",
+        "created_at": "2026-05-27T09:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:12:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059563477396787455",
+          "2059564252915171563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpkOItn9w3",
+              "end": 128,
+              "expanded_url": "https://x.com/Bcattiy/status/2059564252915171563/photo/1",
+              "media_key": "3_2059563467405942784",
+              "start": 105,
+              "url": "https://t.co/gpkOItn9w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059564252915171563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些评论和私信不想回了。我从来没想拿死去炒作 还有要死了都要找我约炮的男的你们也是神了。担心我的宝宝们可以放心了我暂时死不掉了。还有等着我去死的那些人我会坐车拿刀去捅死你们也不会放过你们这群幸灾乐祸的社会垃圾 https://t.co/gpkOItn9w3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 2641,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 525
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "恶心我就把我屏蔽别来找骂 自己想想自己够不够贱的",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 88,
+          "like_count": 2002,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1098
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

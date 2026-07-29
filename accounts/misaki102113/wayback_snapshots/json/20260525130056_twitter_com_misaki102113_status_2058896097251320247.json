@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2058894779031937028",
+    "created_at": "2026-05-25T13:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058896097251320247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872813701159411712",
+          "start": 0,
+          "username": "mamgo347785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058896097251320247",
+    "in_reply_to_user_id": "1872813701159411712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058894779031937028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mamgo347785 抱抱你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2058894779031937028",
+        "created_at": "2026-05-25T13:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058896097251320247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872813701159411712",
+              "start": 0,
+              "username": "mamgo347785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058896097251320247",
+        "in_reply_to_user_id": "1872813701159411712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058894779031937028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamgo347785 抱抱你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872813701159411712",
+        "conversation_id": "2058894779031937028",
+        "created_at": "2026-05-25T12:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058894779031937028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058894779031937028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他娘的好崩溃看了5个ep的海猫全电忘了，找了个最长的解说打算唤醒尘封的记忆结果越看越他妈懵逼，真的有这个剧情吗我他妈完全记不得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2626,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 504
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:16:03.000Z",
+        "description": "可以叫我芒果或者玛丽鱼",
+        "id": "1872813701159411712",
+        "name": "ma mgo",
+        "pinned_tweet_id": "2011105271574372627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051459135775158272/2O8PbP43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 194,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1417
+        },
+        "username": "mamgo347785",
+        "verified": false
+      }
+    ]
+  }
+}

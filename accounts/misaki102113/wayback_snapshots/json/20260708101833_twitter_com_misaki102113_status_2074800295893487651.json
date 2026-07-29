@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2074800295893487651",
+    "created_at": "2026-07-08T10:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074800295893487651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074800295893487651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074793798291304904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 华人彩虹联盟 (CRN) 始创于1996年，是海外最大的华人性少数组织，是注册于美国、专门面向华人LGBTQ+的非营利组织。ta们最有名的项目之一彩虹奖学金已七年成功举办，共收到近1200人次申请，颁发52人次奖学金。\n\nta们的微信公众号最…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2074793795430821888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsl9tbWsAA2x2d.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1607,
+        "media_key": "3_2074793795426582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsl9taWAAAjprb.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2074800295893487651",
+        "created_at": "2026-07-08T10:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074800295893487651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074800295893487651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074793798291304904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 华人彩虹联盟 (CRN) 始创于1996年，是海外最大的华人性少数组织，是注册于美国、专门面向华人LGBTQ+的非营利组织。ta们最有名的项目之一彩虹奖学金已七年成功举办，共收到近1200人次申请，颁发52人次奖学金。\n\nta们的微信公众号最…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074793795430821888",
+            "3_2074793795426582528"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2074793798291304904",
+        "created_at": "2026-07-08T09:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074793798291304904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "海外最大的华人性少数组织",
+              "display_url": "crn.ong",
+              "end": 166,
+              "expanded_url": "https://www.crn.ong",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2074793806675779584/ZIqHhiDB?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074793806675779584/ZIqHhiDB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "华人彩虹联盟 CRN | 首页",
+              "unwound_url": "https://www.crn.ong",
+              "url": "https://t.co/1FdhW74aUT"
+            },
+            {
+              "display_url": "pic.x.com/JeB0PxwqWu",
+              "end": 190,
+              "expanded_url": "https://x.com/amber_digit2/status/2074793798291304904/photo/1",
+              "media_key": "3_2074793795430821888",
+              "start": 167,
+              "url": "https://t.co/JeB0PxwqWu"
+            },
+            {
+              "display_url": "pic.x.com/JeB0PxwqWu",
+              "end": 190,
+              "expanded_url": "https://x.com/amber_digit2/status/2074793798291304904/photo/1",
+              "media_key": "3_2074793795426582528",
+              "start": 167,
+              "url": "https://t.co/JeB0PxwqWu"
+            },
+            {
+              "display_url": "x.com/chineserainbow…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/chineserainbown/status/2074721553934360758",
+              "start": 191,
+              "url": "https://t.co/9gmXHcTIQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074793798291304904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 171,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074721553934360758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华人彩虹联盟 (CRN) 始创于1996年，是海外最大的华人性少数组织，是注册于美国、专门面向华人LGBTQ+的非营利组织。ta们最有名的项目之一彩虹奖学金已七年成功举办，共收到近1200人次申请，颁发52人次奖学金。\n\nta们的微信公众号最近也被封禁，在此宣传一下ta们的推特账号。\nhttps://t.co/1FdhW74aUT https://t.co/JeB0PxwqWu https://t.co/9gmXHcTIQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 2930,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2971,
+          "following_count": 507,
+          "like_count": 1331,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

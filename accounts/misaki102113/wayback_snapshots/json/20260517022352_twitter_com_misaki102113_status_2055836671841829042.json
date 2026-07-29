@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2055832675630604356",
+    "created_at": "2026-05-17T02:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055836671841829042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1675334984931098631",
+          "start": 0,
+          "username": "qwq_7obii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055836671841829042",
+    "in_reply_to_user_id": "1675334984931098631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055832675630604356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_7obii 注意消毒🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2055832675630604356",
+        "created_at": "2026-05-17T02:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055836671841829042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1675334984931098631",
+              "start": 0,
+              "username": "qwq_7obii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055836671841829042",
+        "in_reply_to_user_id": "1675334984931098631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055832675630604356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_7obii 注意消毒🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675334984931098631",
+        "conversation_id": "2055832675630604356",
+        "created_at": "2026-05-17T02:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055832675630604356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055832675630604356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想自残。好想好想好想好想。好烦。我新买了红贝印。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2530,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 417
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T02:46:12.000Z",
+        "description": "le｜08双相重焦OD｜男的滚\n二号机：@TuT_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "TuT_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/IxEnOF6L5c"
+              }
+            ]
+          }
+        },
+        "id": "1675334984931098631",
+        "location": "我的心为恐惧和欲望而跳动 ",
+        "name": "薄荷紙",
+        "pinned_tweet_id": "2046622572180111462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054321262621569024/SCe9J2Sn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 63,
+          "like_count": 880,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/IxEnOF6L5c",
+        "username": "qwq_7obii",
+        "verified": false
+      }
+    ]
+  }
+}

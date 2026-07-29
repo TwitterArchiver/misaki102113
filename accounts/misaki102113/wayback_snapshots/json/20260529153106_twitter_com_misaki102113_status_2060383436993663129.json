@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2060233384987934851",
+    "created_at": "2026-05-29T15:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060383436993663129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547310338328080384",
+          "start": 0,
+          "username": "gaoliang0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060383436993663129",
+    "in_reply_to_user_id": "1547310338328080384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060233384987934851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoliang0808 （盯）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060233373017391104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdrVlEbQAAke7l.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060233373361332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdrVmWbYAArM_7.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060233373763993600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdrVn2bgAAxzDo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060233376704151553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdrVyzawAEMS0E.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2060233384987934851",
+        "created_at": "2026-05-29T15:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060383436993663129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547310338328080384",
+              "start": 0,
+              "username": "gaoliang0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060383436993663129",
+        "in_reply_to_user_id": "1547310338328080384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060233384987934851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoliang0808 （盯）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060233373017391104",
+            "3_2060233373361332224",
+            "3_2060233373763993600",
+            "3_2060233376704151553"
+          ]
+        },
+        "author_id": "1547310338328080384",
+        "conversation_id": "2060233384987934851",
+        "created_at": "2026-05-29T05:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060233384987934851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ty4pURUoMP",
+              "end": 188,
+              "expanded_url": "https://x.com/gaoliang0808/status/2060233384987934851/photo/1",
+              "media_key": "3_2060233373017391104",
+              "start": 165,
+              "url": "https://t.co/ty4pURUoMP"
+            },
+            {
+              "display_url": "pic.x.com/ty4pURUoMP",
+              "end": 188,
+              "expanded_url": "https://x.com/gaoliang0808/status/2060233384987934851/photo/1",
+              "media_key": "3_2060233373361332224",
+              "start": 165,
+              "url": "https://t.co/ty4pURUoMP"
+            },
+            {
+              "display_url": "pic.x.com/ty4pURUoMP",
+              "end": 188,
+              "expanded_url": "https://x.com/gaoliang0808/status/2060233384987934851/photo/1",
+              "media_key": "3_2060233373763993600",
+              "start": 165,
+              "url": "https://t.co/ty4pURUoMP"
+            },
+            {
+              "display_url": "pic.x.com/ty4pURUoMP",
+              "end": 188,
+              "expanded_url": "https://x.com/gaoliang0808/status/2060233384987934851/photo/1",
+              "media_key": "3_2060233376704151553",
+              "start": 165,
+              "url": "https://t.co/ty4pURUoMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060233384987934851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜这四位宝宝被抽到了!\n有一位双向的已在别的地方联系\n第一弹虽然抽完了，接下来就是举办\n166fo的特殊抽奖 主页可加tg群!\n为了弥补没抽到的同学 奖励会多点哟 如10多杯柠檬水:)\n点赞 转发 评论 关注 参与本次抽奖:)\n一等奖 32t150mgprx1\n二等奖 玉米一盒x2\n安慰奖 柠檬水x8杯（能抽到的概率很大哦） https://t.co/ty4pURUoMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 2669,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 538
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T20:02:05.000Z",
+        "description": "这里是道心 有卖烟 是oder。可互fo 喜欢的我会回fo 对电子烟有需要可联系我呀 戒药中 互fo直关就可有的时候没看到就私  转帖点点赞就行啦 花粉聚集地https://t.co/5hrXf0TC6k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hinakofor1",
+                "end": 102,
+                "expanded_url": "https://t.me/hinakofor1",
+                "start": 79,
+                "url": "https://t.co/5hrXf0TC6k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/Au75Hgnn6Q"
+              }
+            ]
+          }
+        },
+        "id": "1547310338328080384",
+        "location": "卢布朗咖啡厅",
+        "name": "破滅道心（小花导）",
+        "pinned_tweet_id": "2034336433172086904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 366,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/Au75Hgnn6Q",
+        "username": "gaoliang0808",
+        "verified": false
+      }
+    ]
+  }
+}

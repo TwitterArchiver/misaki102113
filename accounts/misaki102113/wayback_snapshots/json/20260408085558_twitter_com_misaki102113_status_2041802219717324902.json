@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2041795839933223392",
+    "created_at": "2026-04-08T08:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041802219717324902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2032847763029868544",
+          "start": 0,
+          "username": "Aielww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041802219717324902",
+    "in_reply_to_user_id": "2032847763029868544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041795839933223392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aielww 这是…什么语言（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2041795828776628224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXqfQYa8AAea4f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2041795828642193408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXqfP4XoAAWLTI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2041795839933223392",
+        "created_at": "2026-04-08T08:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041802219717324902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032847763029868544",
+              "start": 0,
+              "username": "Aielww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041802219717324902",
+        "in_reply_to_user_id": "2032847763029868544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041795839933223392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aielww 这是…什么语言（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041795828776628224",
+            "3_2041795828642193408"
+          ]
+        },
+        "author_id": "2032847763029868544",
+        "conversation_id": "2041795839933223392",
+        "created_at": "2026-04-08T08:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041795839933223392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/heuwFfF36h",
+              "end": 86,
+              "expanded_url": "https://x.com/Aielww/status/2041795839933223392/photo/1",
+              "media_key": "3_2041795828776628224",
+              "start": 63,
+              "url": "https://t.co/heuwFfF36h"
+            },
+            {
+              "display_url": "pic.x.com/heuwFfF36h",
+              "end": 86,
+              "expanded_url": "https://x.com/Aielww/status/2041795839933223392/photo/1",
+              "media_key": "3_2041795828642193408",
+              "start": 63,
+              "url": "https://t.co/heuwFfF36h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041795839933223392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌字写的看不清的老师…甚至本地人有时候也会问，更何况咱了…怎么看得清啊啊啊！一节课都在记笔记，上一节课就精疲力尽了…（晕倒 https://t.co/heuwFfF36h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 2200,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 203
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T15:55:19.000Z",
+        "description": "一个臭读电子信息的fw/喜欢喝点好喝的甜甜的（酒）/有时候会女装（但是难看、身材不好）",
+        "id": "2032847763029868544",
+        "name": "Aiel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032848601349505024/ORqQKE5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "username": "Aielww",
+        "verified": false
+      }
+    ]
+  }
+}

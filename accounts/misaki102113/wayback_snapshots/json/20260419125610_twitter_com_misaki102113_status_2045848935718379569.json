@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2045822786548142137",
+    "created_at": "2026-04-19T12:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045848935718379569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779413353125081088",
+          "start": 0,
+          "username": "Kenny_MLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045848935718379569",
+    "in_reply_to_user_id": "1779413353125081088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045832652310368471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenny_MLH 我抽烟的话估计得被我父母杀了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2045822786548142137",
+        "created_at": "2026-04-19T12:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045848935718379569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779413353125081088",
+              "start": 0,
+              "username": "Kenny_MLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045848935718379569",
+        "in_reply_to_user_id": "1779413353125081088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045832652310368471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenny_MLH 我抽烟的话估计得被我父母杀了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779413353125081088",
+        "conversation_id": "2045822786548142137",
+        "created_at": "2026-04-19T11:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045832652310368471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045832652310368471",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045822786548142137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 抽烟试一下，虽然抽到后面一根接一根抽的也想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 2297,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 254
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T07:36:32.000Z",
+        "description": "这是时代的凯歌，这是中国人民的新风尚，让我们喝令三山五岳开道，牛鬼蛇神让路。中国人民将乘东风破万里浪永远前进！",
+        "id": "1779413353125081088",
+        "location": "China Grove, NC",
+        "name": "严肃的Kenny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792455913418432512/9FHYF35E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 507,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "Kenny_MLH",
+        "verified": false
+      }
+    ]
+  }
+}

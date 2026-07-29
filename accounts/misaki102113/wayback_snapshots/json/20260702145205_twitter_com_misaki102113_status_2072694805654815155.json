@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2072446096266437113",
+    "created_at": "2026-07-02T14:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072694805654815155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802818964881289216",
+          "start": 0,
+          "username": "Rinko_kiiso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072694805654815155",
+    "in_reply_to_user_id": "1802818964881289216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072446096266437113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_kiiso 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2072446096266437113",
+        "created_at": "2026-07-02T14:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072694805654815155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802818964881289216",
+              "start": 0,
+              "username": "Rinko_kiiso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072694805654815155",
+        "in_reply_to_user_id": "1802818964881289216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072446096266437113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_kiiso 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802818964881289216",
+        "conversation_id": "2072446096266437113",
+        "created_at": "2026-07-01T22:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072446096266437113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072446096266437113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 452,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有精神疾病的孩子可以找我聊天，我会尽我所能的安慰你，尽我所能的让你觉得还会有幸福的事发生，放弃去死的念头，我很心疼所有有精神疾病的孩子，希望大家都可以好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 2891,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T21:42:11.000Z",
+        "description": "精力低下..日常吐黑泥..",
+        "id": "1802818964881289216",
+        "name": "短命女",
+        "pinned_tweet_id": "2061750630981722266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068956991087910912/CuW2tXHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 0,
+          "like_count": 4312,
+          "listed_count": 3,
+          "media_count": 1209,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "Rinko_kiiso",
+        "verified": false
+      }
+    ]
+  }
+}

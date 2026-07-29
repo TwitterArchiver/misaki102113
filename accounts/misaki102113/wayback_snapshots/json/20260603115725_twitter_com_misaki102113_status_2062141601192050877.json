@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2061944474855670225",
+    "created_at": "2026-06-03T11:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062141601192050877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942218528100134912",
+          "start": 0,
+          "username": "youling_qaq"
+        },
+        {
+          "end": 28,
+          "id": "2055911737208315904",
+          "start": 13,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062141601192050877",
+    "in_reply_to_user_id": "1942218528100134912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061944474855670225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youling_qaq @omgnowihasfish 不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2061944474855670225",
+        "created_at": "2026-06-03T11:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062141601192050877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942218528100134912",
+              "start": 0,
+              "username": "youling_qaq"
+            },
+            {
+              "end": 28,
+              "id": "2055911737208315904",
+              "start": 13,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062141601192050877",
+        "in_reply_to_user_id": "1942218528100134912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061944474855670225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youling_qaq @omgnowihasfish 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "conversation_id": "2061944474855670225",
+        "created_at": "2026-06-02T22:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061944474855670225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061944474855670225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 552,
+          "like_count": 24,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "吃钡失败，没死成功，今天再试一遍，要是还没死我真没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 2696,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 556
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "……？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basibatuo.fun",
+                "end": 23,
+                "expanded_url": "http://basibatuo.fun/",
+                "start": 0,
+                "url": "https://t.co/po9ukaW6p6"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 979,
+          "like_count": 3626,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/po9ukaW6p6",
+        "username": "youling_qaq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市(謝謝你喜歡台灣😭😭😭❤️❤️)\n2009/12/24\n我已急哭😂😭\n我最愛的數字:67 我不事ragebaiter😿",
+        "id": "2055911737208315904",
+        "name": "黃瓜(博齊國）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 518,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 376
+        },
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

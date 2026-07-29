@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2060621851240591616",
+    "created_at": "2026-05-30T07:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060628564534501883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060628564534501883",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060621851240591616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 丁螺环酮？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2060621851240591616",
+        "created_at": "2026-05-30T07:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060628564534501883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060628564534501883",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060621851240591616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 丁螺环酮？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956760772291579904",
+        "conversation_id": "2060621851240591616",
+        "created_at": "2026-05-30T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060621851240591616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060621851240591616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有没有什么药相对于普瑞巴林可以更长效的抑制焦虑捏？\n\n普瑞巴林效果短但是效力强，缺点是堆耐受速度太快，所以想要找一款可以相对于普瑞巴林更长效，效果也相对来说可以持平普瑞巴林的抗焦虑药。\n\n我目前的情况大概是：在普瑞巴林药效完全消退后，我会出现与 PTSD 相关、以及可能与 BPD 形成有关的闪回，且日常发生频率较高。睡眠时，我会出现高度拟真且高压力的噩梦，逼真程度达到醒来后需要检查手机，确认现实中是否真的发生了相关事情的程度。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么药相对于普瑞巴林可以更长效的抑制焦虑捏？\n\n普瑞巴林效果短但是效力强，缺点是堆耐受速度太快，所以想要找一款可以相对于普瑞巴林更长效，效果也相对来说可以持平普瑞巴林的抗焦虑药。\n\n我目前的情况大概是：在普瑞巴林药效完全消退后，我会出现与 PTSD 相关、以及可能与 BPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2674,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 545
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "🇨🇦🏳️‍⚧️ 最爱🍅还有最傻逼的柠檬糖@tongzikin 还有yukoko @Yuko0Ruuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "tongzikin"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "Yuko0Ruuu"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "猫塔塔塔塔🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956761029175562240/IaD5K9v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 285,
+          "like_count": 15934,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 2852
+        },
+        "username": "catower233",
+        "verified": true
+      }
+    ]
+  }
+}

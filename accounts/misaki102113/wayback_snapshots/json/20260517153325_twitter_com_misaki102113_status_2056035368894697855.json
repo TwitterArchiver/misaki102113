@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2056024913157505501",
+    "created_at": "2026-05-17T15:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056035368894697855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908653241489121286",
+          "start": 0,
+          "username": "chnkixn1034469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056035368894697855",
+    "in_reply_to_user_id": "1908653241489121286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056024913157505501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnkixn1034469 不要🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2056024913157505501",
+        "created_at": "2026-05-17T15:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056035368894697855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908653241489121286",
+              "start": 0,
+              "username": "chnkixn1034469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056035368894697855",
+        "in_reply_to_user_id": "1908653241489121286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056024913157505501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnkixn1034469 不要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908653241489121286",
+        "conversation_id": "2056024913157505501",
+        "created_at": "2026-05-17T14:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056024913157505501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056024913157505501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在前往目的地跳桥中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 2541,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 424
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T22:50:09.000Z",
+        "description": "2009.7.9出产喵/173cm*53kg\\mtf:26年3月14日\\重抑+重焦\\已经炸柜了 4月被关医院一个月目前已出院_4月17日断糖...5月4号起已恢复hrt，快来和我互fo吧！",
+        "id": "1908653241489121286",
+        "location": "地球🌏",
+        "name": "Dzero🍥凋零",
+        "pinned_tweet_id": "2049487283007734148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051955369673719808/mK8b04B-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 545,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 111
+        },
+        "username": "chnkixn1034469",
+        "verified": false
+      }
+    ]
+  }
+}

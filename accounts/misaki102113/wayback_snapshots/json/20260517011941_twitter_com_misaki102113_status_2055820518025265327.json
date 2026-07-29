@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2055820518025265327",
+    "created_at": "2026-05-17T01:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055820518025265327"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055820518025265327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记录一下昨天的梦\n开始是发现自行车丢了，然后就在学校里找，但怎么也找不到…，然后被父母一顿骂，然后突然转换到教室里，应该是马上高考了，发现练习题一道也不会，被老师疯狂压力，然后在梦里躯体化了（？），在痛苦之下从楼上一跃而下并惊醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2055820518025265327",
+        "created_at": "2026-05-17T01:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055820518025265327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055820518025265327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录一下昨天的梦\n开始是发现自行车丢了，然后就在学校里找，但怎么也找不到…，然后被父母一顿骂，然后突然转换到教室里，应该是马上高考了，发现练习题一道也不会，被老师疯狂压力，然后在梦里躯体化了（？），在痛苦之下从楼上一跃而下并惊醒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2527,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 416
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

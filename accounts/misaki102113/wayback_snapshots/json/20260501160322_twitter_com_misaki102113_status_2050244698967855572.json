@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2049391377654702562",
+    "created_at": "2026-05-01T16:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050244698967855572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743686485084454912",
+          "start": 0,
+          "username": "hagnagm2327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050244698967855572",
+    "in_reply_to_user_id": "1743686485084454912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049523582716584271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hagnagm2327 可能很难走出来了…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2049391377654702562",
+        "created_at": "2026-05-01T16:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050244698967855572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743686485084454912",
+              "start": 0,
+              "username": "hagnagm2327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050244698967855572",
+        "in_reply_to_user_id": "1743686485084454912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049523582716584271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagnagm2327 可能很难走出来了…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743686485084454912",
+        "conversation_id": "2049391377654702562",
+        "created_at": "2026-04-29T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049523582716584271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049523582716584271",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049391377654702562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 宝宝不要( ･᷄ὢ･᷅ )宝宝变娃超可爱的，如果想NSSI了要不试试换种方式，比如用变娃来让自己离开刀片呢(&gt;﹏&lt;)祝你早点走出来(*^^*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 2400,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 313
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T17:30:34.000Z",
+        "description": "窝窝(o^^o)是一名新手kigger！单推初音未来！想和娃娃们互关！【有涩，请自行避雷；不鉴证】This is WoWo, a green hand kigu favoring Miku most! Plz follow each other with kigus! A few NSFW; no politics!",
+        "id": "1743686485084454912",
+        "name": "WoWoKKKig（想和娃互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012213520381640704/jICoZdYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1025,
+          "like_count": 2753,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 215
+        },
+        "username": "hagnagm2327",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2046604532411716044",
+    "created_at": "2026-04-21T14:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046604532411716044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine_202…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/RainEngine_2024/status/2046538645298085967",
+          "start": 7,
+          "url": "https://t.co/zs1M6lETqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046604532411716044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046538645298085967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求活久点教程 https://t.co/zs1M6lETqx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2046604532411716044",
+        "created_at": "2026-04-21T14:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046604532411716044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2046538645298085967",
+              "start": 7,
+              "url": "https://t.co/zs1M6lETqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046604532411716044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046538645298085967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求活久点教程 https://t.co/zs1M6lETqx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2046538645298085967",
+        "created_at": "2026-04-21T10:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046538645298085967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TeamRain_2024/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/TeamRain_2024/status/2046529602382950411",
+              "start": 7,
+              "url": "https://t.co/gPN9FZWs22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046538645298085967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 717,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046529602382950411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求活久点教程 https://t.co/gPN9FZWs22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 2307,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 261
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨|探索中?或许是MtX?|Hrt🍥01.28.2026，无证含糖|家长不管党，炸柜:03.12|oder💊pr&玉米|11.13.2011🎂出厂|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|有点笨笨的🥺|同类互fo喵～|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 158,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 135,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "Hanchuan City, Hubei",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️💊",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 1379,
+          "like_count": 15363,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 2440
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

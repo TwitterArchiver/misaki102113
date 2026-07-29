@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057458749275787264"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057458761154105357",
+    "created_at": "2026-05-21T13:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057458761154105357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/slmWBz69xE",
+          "end": 23,
+          "expanded_url": "https://x.com/misaki102113/status/2057458761154105357/photo/1",
+          "media_key": "3_2057458749275787264",
+          "start": 0,
+          "url": "https://t.co/slmWBz69xE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057458761154105357",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/slmWBz69xE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2057458749275787264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2P1OKaUAA9NyI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057458749275787264"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057458761154105357",
+        "created_at": "2026-05-21T13:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057458761154105357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slmWBz69xE",
+              "end": 23,
+              "expanded_url": "https://x.com/misaki102113/status/2057458761154105357/photo/1",
+              "media_key": "3_2057458749275787264",
+              "start": 0,
+              "url": "https://t.co/slmWBz69xE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057458761154105357",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/slmWBz69xE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 2591,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 463
+        },
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

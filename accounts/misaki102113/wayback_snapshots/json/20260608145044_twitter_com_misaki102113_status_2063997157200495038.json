@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2063908019113795839",
+    "created_at": "2026-06-08T14:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063997157200495038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784645200532721664",
+          "start": 0,
+          "username": "makino100999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063997157200495038",
+    "in_reply_to_user_id": "1784645200532721664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063908019113795839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makino100999 草我雅思真6.5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 119,
+        "media_key": "3_2063908009815007232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR5Zl4bYAAuSnN.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2063908019113795839",
+        "created_at": "2026-06-08T14:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063997157200495038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784645200532721664",
+              "start": 0,
+              "username": "makino100999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063997157200495038",
+        "in_reply_to_user_id": "1784645200532721664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063908019113795839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makino100999 草我雅思真6.5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063908009815007232"
+          ]
+        },
+        "author_id": "1784645200532721664",
+        "conversation_id": "2063908019113795839",
+        "created_at": "2026-06-08T08:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063908019113795839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25IdTfI2O5",
+              "end": 38,
+              "expanded_url": "https://x.com/makino100999/status/2063908019113795839/photo/1",
+              "media_key": "3_2063908009815007232",
+              "start": 15,
+              "url": "https://t.co/25IdTfI2O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063908019113795839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18466,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的门槛就是这样依据雅思成绩 https://t.co/25IdTfI2O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978340398121820160/sHp5ovjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 2741,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 577
+        },
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T18:05:56.000Z",
+        "description": "推特发泄情绪日记/时而正常时而不正常/不卖号啊没有电报",
+        "id": "1784645200532721664",
+        "location": "🚪雅思6.5及以上",
+        "name": "花火和热带鱼",
+        "pinned_tweet_id": "1886434476672372905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785154317651267584/GA_B2P3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16597,
+          "following_count": 180,
+          "like_count": 2574,
+          "listed_count": 55,
+          "media_count": 249,
+          "tweet_count": 3099
+        },
+        "username": "makino100999",
+        "verified": false
+      }
+    ]
+  }
+}
