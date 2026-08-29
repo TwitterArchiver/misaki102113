@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2083508044840022177",
+    "created_at": "2026-08-01T13:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083550702413210048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083550702413210048",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083508044840022177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 晚安…希望你在那边能幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2083508044840022177",
+        "created_at": "2026-08-01T13:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083550702413210048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083550702413210048",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083508044840022177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 晚安…希望你在那边能幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2083508044840022177",
+        "created_at": "2026-08-01T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083508044840022177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083508044840022177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是一条定时推文 当大家看到时我大概率是已经不在了\n我爱的人和爱我的人们不要感到伤心 不要感到自责 我解脱了 奈奈终于找到永恒的幸福 这个选择跟任何人任何事都没有关系 唯一的遗愿就是不希望大家争吵骂架 PEACE & LOVE 奈奈只是好累呀 我干了好多错事 伤害了好多人 过后后悔只能吐出一句无力的对不起 但真的对不起 我知道再怎么做都无法弥补 对不起 \n我爱你们 大家都对我特别好特别好 跟大家玩很开心很开心 以后好好生活哦 只记得曾经与奈奈快乐的回忆就好啦 Jack 你走后第299天我终于兑现诺言来陪你 晚安🩷"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10520,
+          "like_count": 116,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条定时推文 当大家看到时我大概率是已经不在了\n我爱的人和爱我的人们不要感到伤心 不要感到自责 我解脱了 奈奈终于找到永恒的幸福 这个选择跟任何人任何事都没有关系 唯一的遗愿就是不希望大家争吵骂架 PEACE &amp; LOVE 奈奈只是好累呀 我干了好多错事 伤害了好多人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 2959,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 323,
+          "like_count": 24892,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

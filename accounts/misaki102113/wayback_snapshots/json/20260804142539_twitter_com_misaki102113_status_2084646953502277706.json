@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2084625607368085521",
+    "created_at": "2026-08-04T14:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084646953502277706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052432401289363456",
+          "start": 0,
+          "username": "hyacinthcxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084646953502277706",
+    "in_reply_to_user_id": "2052432401289363456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084625607368085521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyacinthcxi 抱抱你🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2084625599025565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4T7_-a0AArTNY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2084625607368085521",
+        "created_at": "2026-08-04T14:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084646953502277706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052432401289363456",
+              "start": 0,
+              "username": "hyacinthcxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084646953502277706",
+        "in_reply_to_user_id": "2052432401289363456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084625607368085521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyacinthcxi 抱抱你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084625599025565696"
+          ]
+        },
+        "author_id": "2052432401289363456",
+        "conversation_id": "2084625607368085521",
+        "created_at": "2026-08-04T13:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084625607368085521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k1JlUBzK2",
+              "end": 132,
+              "expanded_url": "https://x.com/hyacinthcxi/status/2084625607368085521/photo/1",
+              "media_key": "3_2084625599025565696",
+              "start": 109,
+              "url": "https://t.co/8k1JlUBzK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625607368085521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次自杀感觉真的像重生一样，比上次严重多了，感觉真的是被从死神那里硬救回来的……但是现在很痴呆，简单来说就是又不想活又不想死，可能经历了这些事之后大脑也受损了吧……其实也挺难受的😭呜呜呜，连哭的力气都没有了，想要抱抱 https://t.co/8k1JlUBzK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 2983,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T17:02:25.000Z",
+        "description": "2009 休学4年 抑郁 ptsd bpd\n🚪45 好友位+陪聊 图/视频/线下另算\n同类和我互fo喵谢谢你们\n前世@camelliacxi 幽灵@hyacxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "camelliacxi"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "hyacxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/camelliacxi",
+                "end": 23,
+                "expanded_url": "http://ngl.link/camelliacxi",
+                "start": 0,
+                "url": "https://t.co/4VLvWURMRv"
+              }
+            ]
+          }
+        },
+        "id": "2052432401289363456",
+        "name": "Hyacinth",
+        "pinned_tweet_id": "2075831905199808582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075683920000225280/TEtE_bCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 18,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/4VLvWURMRv",
+        "username": "hyacinthcxi",
+        "verified": false
+      }
+    ]
+  }
+}

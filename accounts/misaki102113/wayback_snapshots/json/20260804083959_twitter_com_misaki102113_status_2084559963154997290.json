@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084559950043615232"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2084559963154997290",
+    "created_at": "2026-08-04T08:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084559963154997290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWSGUgT34k",
+          "end": 31,
+          "expanded_url": "https://x.com/misaki102113/status/2084559963154997290/photo/1",
+          "media_key": "3_2084559950043615232",
+          "start": 8,
+          "url": "https://t.co/hWSGUgT34k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084559963154997290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一起的吗（） https://t.co/hWSGUgT34k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2084559950043615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3YOudbEAA9pXq.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084559950043615232"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2084559963154997290",
+        "created_at": "2026-08-04T08:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084559963154997290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWSGUgT34k",
+              "end": 31,
+              "expanded_url": "https://x.com/misaki102113/status/2084559963154997290/photo/1",
+              "media_key": "3_2084559950043615232",
+              "start": 8,
+              "url": "https://t.co/hWSGUgT34k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084559963154997290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一起的吗（） https://t.co/hWSGUgT34k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 2981,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false
+      }
+    ]
+  }
+}

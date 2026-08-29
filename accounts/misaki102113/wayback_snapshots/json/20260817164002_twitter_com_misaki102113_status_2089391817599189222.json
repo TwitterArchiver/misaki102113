@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089391637848096773",
+        "3_2089391707150528512"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2089391817599189222",
+    "created_at": "2026-08-17T16:40:02.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089391817599189222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qve1tHIZrD",
+          "end": 91,
+          "expanded_url": "https://x.com/misaki102113/status/2089391817599189222/photo/1",
+          "media_key": "3_2089391637848096773",
+          "start": 68,
+          "url": "https://t.co/Qve1tHIZrD"
+        },
+        {
+          "display_url": "pic.x.com/Qve1tHIZrD",
+          "end": 91,
+          "expanded_url": "https://x.com/misaki102113/status/2089391817599189222/photo/1",
+          "media_key": "3_2089391707150528512",
+          "start": 68,
+          "url": "https://t.co/Qve1tHIZrD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089391817599189222",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089391637848096773"
+      },
+      {
+        "media_key": "3_2089391707150528512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为什么会因为一点小事就情绪崩溃啊…\n刚才发现牙套找不到了，就开始无法控制的砸东西\n然后就开始自伤…\n另：图文无关，由ai生成特效妆容 https://t.co/Qve1tHIZrD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2089391637848096773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8Cn-KbgAUlj2A.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1864,
+        "media_key": "3_2089391707150528512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8CsAVasAA6xHb.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089391637848096773",
+            "3_2089391707150528512"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2089391817599189222",
+        "created_at": "2026-08-17T16:40:02.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089391817599189222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qve1tHIZrD",
+              "end": 91,
+              "expanded_url": "https://x.com/misaki102113/status/2089391817599189222/photo/1",
+              "media_key": "3_2089391637848096773",
+              "start": 68,
+              "url": "https://t.co/Qve1tHIZrD"
+            },
+            {
+              "display_url": "pic.x.com/Qve1tHIZrD",
+              "end": 91,
+              "expanded_url": "https://x.com/misaki102113/status/2089391817599189222/photo/1",
+              "media_key": "3_2089391707150528512",
+              "start": 68,
+              "url": "https://t.co/Qve1tHIZrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089391817599189222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089391637848096773"
+          },
+          {
+            "media_key": "3_2089391707150528512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么会因为一点小事就情绪崩溃啊…\n刚才发现牙套找不到了，就开始无法控制的砸东西\n然后就开始自伤…\n另：图文无关，由ai生成特效妆容 https://t.co/Qve1tHIZrD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089391817599189222",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 2998,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
