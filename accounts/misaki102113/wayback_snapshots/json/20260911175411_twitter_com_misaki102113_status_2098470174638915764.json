@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098458518802341919",
+    "created_at": "2026-09-11T17:54:11.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098470174638915764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808604308163940352",
+          "start": 0,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098470174638915764",
+    "in_reply_to_user_id": "1808604308163940352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098458518802341919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cici20120712 严重焦虑的话确实会想吐的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098458518802341919",
+        "created_at": "2026-09-11T17:54:11.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098470174638915764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098470174638915764",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098458518802341919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 严重焦虑的话确实会想吐的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2098458518802341919",
+        "created_at": "2026-09-11T17:07:53.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098458518802341919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098458518802341919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑到吐出来了\n我感觉我可能是吃了巧克力的狗快死了吐出来就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098470174638915764",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 3241,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098458518802341919",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2064496772102373752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808604308163940352/1722854184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74549,
+          "following_count": 119,
+          "like_count": 1198,
+          "listed_count": 200,
+          "media_count": 842,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "cici20120712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

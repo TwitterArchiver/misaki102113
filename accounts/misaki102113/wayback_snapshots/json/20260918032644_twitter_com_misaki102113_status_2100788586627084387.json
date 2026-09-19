@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098828818098294882",
+    "created_at": "2026-09-18T03:26:44.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T04:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100788586627084387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1637653532546596864",
+          "start": 0,
+          "username": "almyalium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100788586627084387",
+    "in_reply_to_user_id": "1637653532546596864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100784194037420530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@almyalium 都吃过了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098828818098294882",
+        "created_at": "2026-09-18T03:26:44.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100788586627084387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1637653532546596864",
+              "start": 0,
+              "username": "almyalium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100788586627084387",
+        "in_reply_to_user_id": "1637653532546596864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100784194037420530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@almyalium 都吃过了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637653532546596864",
+        "conversation_id": "2098828818098294882",
+        "created_at": "2026-09-18T03:09:17.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100784194037420530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100784194037420530",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098829684880638100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 有没有试过SSRIs类和米氮平啊，单纯的用安眠类药物久了都会有耐药性的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100788586627084387",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 3453,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-20T03:13:37.000Z",
+        "description": "有没有打三角洲的人啊啊啊鱼塘水平",
+        "id": "1637653532546596864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100784194037420530",
+        "name": "今天很开心",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100493820098195456/xfutIvvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "almyalium",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

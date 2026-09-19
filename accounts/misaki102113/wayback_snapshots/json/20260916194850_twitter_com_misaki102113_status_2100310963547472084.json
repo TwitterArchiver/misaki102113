@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100296301829378395",
+    "created_at": "2026-09-16T19:48:50.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100310963547472084"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100310963547472084",
+    "in_reply_to_user_id": "1978297494464585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100296301829378395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来想吞阿普唑仑，扎来普隆，普瑞巴林的，然后突然想到这么多pr一次没玩过太可惜了…于是就先吃了一板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100296301829378395",
+        "created_at": "2026-09-16T19:48:50.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100310963547472084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100310963547472084",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100296301829378395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来想吞阿普唑仑，扎来普隆，普瑞巴林的，然后突然想到这么多pr一次没玩过太可惜了…于是就先吃了一板"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100296301829378395",
+        "created_at": "2026-09-16T18:50:34.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100296301829378395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100296301829378395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr80拯救了我的生命…\n我从未如此接近过自杀，我手边一直有足够死亡的大量安眠药，然而在pr的作用下我的心情极速改善，并且完全抛弃了自杀的想法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100310963547472084",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 3397,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

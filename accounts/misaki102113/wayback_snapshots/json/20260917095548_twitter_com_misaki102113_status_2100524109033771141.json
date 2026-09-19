@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100518245518422425",
+    "created_at": "2026-09-17T09:55:48.000Z",
+    "display_text_range": [
+      15,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100524109033771141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100524109033771141",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100521372019810329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 我现在手抖的倒水都会撒，现在已经没法单手刷手机了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100518245518422425",
+        "created_at": "2026-09-17T09:55:48.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100524109033771141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100524109033771141",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100521372019810329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 我现在手抖的倒水都会撒，现在已经没法单手刷手机了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "2100518245518422425",
+        "created_at": "2026-09-17T09:44:55.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100521372019810329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100521372019810329",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100518245518422425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 我也是，手抖导致画画都很难受，不过可以试一下像素画还有建模，而且只需要有免费的软件就行了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100524109033771141",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 3417,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "Take down your hair and wind up your grin\nSomeone's gonna take you home",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/blackcrow1917",
+                "end": 23,
+                "expanded_url": "http://t.me/blackcrow1917",
+                "start": 0,
+                "url": "https://t.co/vMj4wbJjus"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2100521670738071877",
+        "name": "胃烧书🍥",
+        "pinned_tweet_id": "2090025046278582467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1788722867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087905660696686592/_A6f0rb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1076,
+          "like_count": 13864,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2302
+        },
+        "url": "https://t.co/vMj4wbJjus",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

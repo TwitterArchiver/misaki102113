@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2099106345966514657",
+    "created_at": "2026-09-14T00:57:25.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T01:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099301459733152132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099301459733152132",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099106345966514657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 那没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2099106345966514657",
+        "created_at": "2026-09-14T00:57:25.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T01:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099301459733152132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099301459733152132",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099106345966514657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 那没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2099106345966514657",
+        "created_at": "2026-09-13T12:02:07.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099106345966514657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099106345966514657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1483,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有00后的有钱人传授一下经验，不要网红，灰产，币圈，二代"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099301459733152132",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 3302,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099106509783449990",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 341,
+          "like_count": 8179,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

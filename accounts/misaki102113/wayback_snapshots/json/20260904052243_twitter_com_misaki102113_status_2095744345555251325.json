@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2095699026884890954",
+    "created_at": "2026-09-04T05:22:43.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095744345555251325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608684841729667073",
+          "start": 0,
+          "username": "tongzikin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095744345555251325",
+    "in_reply_to_user_id": "1608684841729667073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095699026884890954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@tongzikin 不要啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2095699026884890954",
+        "created_at": "2026-09-04T05:22:43.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095744345555251325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608684841729667073",
+              "start": 0,
+              "username": "tongzikin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095744345555251325",
+        "in_reply_to_user_id": "1608684841729667073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095699026884890954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@tongzikin 不要啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608684841729667073",
+        "conversation_id": "2095699026884890954",
+        "created_at": "2026-09-04T02:22:38.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095699026884890954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tongzikin/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/tongzikin/status/2095688710214099422",
+              "start": 57,
+              "url": "https://t.co/kAS0S7E7vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095699026884890954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095688710214099422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "在今晚重开和__之间选择了__，明天把后事处理好就死掉吧，一个白天也足够了。\n很可惜给重要的人留不下太多的价值。 https://t.co/kAS0S7E7vD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095744345555251325",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 3107,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "📪 hey@zikin.me / 🏳️‍⚧️ She|They / 臭学文科的\n🫶 好诡秘 🪭 @misaka1057 / ❄️ @mio_shirakawa / 🐧 @Silent121_5 / 🌸 @Miaaaaaaama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "misaka1057"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "mio_shirakawa"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Miaaaaaaama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRyODw"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "is_identity_verified": false,
+        "location": "Edmonton / Vancouver / Beijing",
+        "most_recent_tweet_id": "2095699026884890954",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "2081796052462780489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608684841729667073/1675000942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080480264237842433/HA-o9WGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 2109,
+          "like_count": 30559,
+          "listed_count": 5,
+          "media_count": 1193,
+          "tweet_count": 4321
+        },
+        "url": "https://t.co/JbvqgRyODw",
+        "username": "tongzikin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

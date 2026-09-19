@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100536939279725043",
+    "created_at": "2026-09-17T11:09:37.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100542688718463486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100542688718463486",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100536939279725043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji 加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2100536921516802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSabM3SaAAA66Ml.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1284,
+        "media_key": "3_2100536930228404225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSabNXvagAEd8vo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100536939279725043",
+        "created_at": "2026-09-17T11:09:37.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100542688718463486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100542688718463486",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100536939279725043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100536921516802048",
+            "3_2100536930228404225"
+          ]
+        },
+        "author_id": "4313176880",
+        "conversation_id": "2100536939279725043",
+        "created_at": "2026-09-17T10:46:47.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100536939279725043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLjpFA97i9",
+              "end": 165,
+              "expanded_url": "https://x.com/fake_fuji/status/2100536939279725043/photo/1",
+              "media_key": "3_2100536921516802048",
+              "start": 142,
+              "url": "https://t.co/yLjpFA97i9"
+            },
+            {
+              "display_url": "pic.x.com/yLjpFA97i9",
+              "end": 165,
+              "expanded_url": "https://x.com/fake_fuji/status/2100536939279725043/photo/1",
+              "media_key": "3_2100536930228404225",
+              "start": 142,
+              "url": "https://t.co/yLjpFA97i9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100536939279725043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100536921516802048"
+          },
+          {
+            "media_key": "3_2100536930228404225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "真正的坦荡见自己，图中红线是我挂科的科目（英语基本没学，也没平时分，能得80属实意外）\n\n24年-25年那段时间，真的是人生至暗\n\n那时我刚刚上大一\n\n一方面高中时期有后遗症，情绪化严重，经常会缺课逃课，也会与教师发生冲突,休学后去检查，才知道自己得了中度抑郁和重度焦虑......\n\n另一方面，我和家庭关系很差，我受不了学校的宿舍环境，想去外面租房住，但是家庭无法给我提供支持，后面就有了我去麦当劳打工兼职赚房租，在这期间，我认识了许多志同道合的同事，体会到打工的乐趣，我的学业便彻底荒废了\n\n到了大一后期，我干脆连期末考试也不参加了，考试也懒得应付......就出现了大面积挂科\n\n也就是在这时导员建议我休学的\n\n于是就有了我主页置顶视频里那些经历\n\n如今打工一年回到校园，我攒下钱在校外租房，\n\n课上听的很认真，却非常吃力，看着挂科的成绩单，倍感压力山大，毕竟如果想读国外硕士，成绩不能太差\n\n所幸，我的学校只会展示出最终的及格成绩，前面的不及格，统统可以略去\n\n我想，债务会慢慢还回来的....不怕...打工那么艰苦的日子都挺过来了\n\n欢迎大家看到一个失败的成年人（至少是学业上很失败），哼，失败者，我还是回到了那个评价体系\n\n我之前说过，我会毫不羞愧地向大家展露我的缺点\n\n导员和我说，能积极融入校园就是进步了\n\n感谢大家一路陪伴，接下来会很艰难吧\n\n可是那六年我不也挺过来了？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正的坦荡见自己，图中红线是我挂科的科目（英语基本没学，也没平时分，能得80属实意外）\n\n24年-25年那段时间，真的是人生至暗\n\n那时我刚刚上大一\n\n一方面高中时期有后遗症，情绪化严重，经常会缺课逃课，也会与教师发生冲突,休学后去检查，才知道自己得了中度抑郁和重度焦虑...... https://t.co/yLjpFA97i9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100542688718463486",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 3422,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2100537590772641862",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 608,
+          "like_count": 1766,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

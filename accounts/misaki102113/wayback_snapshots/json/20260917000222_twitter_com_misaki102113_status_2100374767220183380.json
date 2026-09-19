@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100243281577976116",
+    "created_at": "2026-09-17T00:02:22.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100374767220183380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020935362386984964",
+          "start": 0,
+          "username": "Gen_ei_SKC0218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100374767220183380",
+    "in_reply_to_user_id": "2020935362386984964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100372869515739367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gen_ei_SKC0218 道心破碎了…反正也不贵，就当600fo的抽奖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100243281577976116",
+        "created_at": "2026-09-17T00:02:22.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100374767220183380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020935362386984964",
+              "start": 0,
+              "username": "Gen_ei_SKC0218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100374767220183380",
+        "in_reply_to_user_id": "2020935362386984964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100372869515739367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gen_ei_SKC0218 道心破碎了…反正也不贵，就当600fo的抽奖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020935362386984964",
+        "conversation_id": "2100243281577976116",
+        "created_at": "2026-09-16T23:54:49.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100372869515739367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100372869515739367",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100243281577976116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 真的免费送吗你不亏嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100374767220183380",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 3402,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳 \n爱人：@meyuyume121\nrip：@yume_121_3\n神聖かまってちゃん🎸（Japan）、低苦艾、李志（China），羅大佑、陳昇（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "meyuyume121"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2020935362386984964",
+        "is_identity_verified": false,
+        "location": "玄英",
+        "most_recent_tweet_id": "2100372869515739367",
+        "name": "Gen eiかまってちゃん🎸",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020935362386984964/1773558786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091535033731514368/yTKuNaH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 233,
+          "like_count": 8114,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1832
+        },
+        "url": "",
+        "username": "Gen_ei_SKC0218",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

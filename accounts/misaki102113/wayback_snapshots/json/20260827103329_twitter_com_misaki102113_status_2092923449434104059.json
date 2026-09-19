@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2092918735371747454",
+    "created_at": "2026-08-27T10:33:29.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092923449434104059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023256339363856384",
+          "start": 0,
+          "username": "Yumeoibito76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092923449434104059",
+    "in_reply_to_user_id": "2023256339363856384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092918735371747454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumeoibito76 不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2092918735371747454",
+        "created_at": "2026-08-27T10:33:29.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092923449434104059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092923449434104059",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092918735371747454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2092918735371747454",
+        "created_at": "2026-08-27T10:14:45.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092918735371747454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092918735371747454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我太爱我的妈妈了所以我决定在今晚吞亚盐胶囊，我上学的时候太想她了总是忍不住要哭，如果闹着要请假的话她又会很生气，太折磨了我受不了了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092923449434104059",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 3069,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2092923079441715593",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 315,
+          "like_count": 4458,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

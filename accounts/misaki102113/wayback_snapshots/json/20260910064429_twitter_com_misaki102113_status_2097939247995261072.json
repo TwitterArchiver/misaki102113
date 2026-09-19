@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2097938926694748597",
+    "created_at": "2026-09-10T06:44:29.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T07:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097939247995261072"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097939247995261072",
+    "in_reply_to_user_id": "1978297494464585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097938926694748597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我甚至做不到遵医嘱服药（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097938926694748597",
+        "created_at": "2026-09-10T06:44:29.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097939247995261072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097939247995261072",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097938926694748597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我甚至做不到遵医嘱服药（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097938926694748597",
+        "created_at": "2026-09-10T06:43:12.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097938926694748597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097938926694748597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去了三家医保小程序上显示有pr的医院，但依然开不出来…\n在我表述自己神经痛加焦虑，之前遵医嘱吃过pr效果很好之后，三位医生均表示普瑞现在被按照精麻药品管制，必须要精神专科医院的处方才能开，然而精卫中心没有这个药开不了处方…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097939247995261072",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 3193,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

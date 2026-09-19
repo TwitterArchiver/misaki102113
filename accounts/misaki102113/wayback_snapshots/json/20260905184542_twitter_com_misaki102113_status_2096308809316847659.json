@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2096308809316847659",
+    "created_at": "2026-09-05T18:45:42.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T19:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096308809316847659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829371164822769664",
+          "start": 3,
+          "username": "airYizii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096308809316847659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096278641760145475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @airYizii: 为什么我死了要考虑别人是否痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2096308809316847659",
+        "created_at": "2026-09-05T18:45:42.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096308809316847659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829371164822769664",
+              "start": 3,
+              "username": "airYizii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096308809316847659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096278641760145475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @airYizii: 为什么我死了要考虑别人是否痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829371164822769664",
+        "conversation_id": "2096278641760145475",
+        "created_at": "2026-09-05T16:45:49.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096278641760145475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096278641760145475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我死了要考虑别人是否痛苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096308809316847659",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 3126,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T04:11:05.000Z",
+        "description": "请随意和我互动 互fo来评论我！剧烈喜欢你们摸摸贴贴亲亲啃啃\n请吃掉我吧^_^",
+        "id": "1829371164822769664",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096303198156013720",
+        "name": "小焱",
+        "pinned_tweet_id": "2090289719418781858",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059679424887595008/YPjdFu45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 388,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "airYizii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

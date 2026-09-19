@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100239838117007794",
+    "created_at": "2026-09-16T15:34:00.000Z",
+    "display_text_range": [
+      10,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100246833490788827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100246833490788827",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100246197948883423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 主要我不是初学者了…这是我抑郁之后第一次拼，之前都没出过问题…然后之前吃药导致大脑超级不清醒…才这样的，就很有挫败感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100239838117007794",
+        "created_at": "2026-09-16T15:34:00.000Z",
+        "display_text_range": [
+          10,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100246833490788827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100246833490788827",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100246197948883423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 主要我不是初学者了…这是我抑郁之后第一次拼，之前都没出过问题…然后之前吃药导致大脑超级不清醒…才这样的，就很有挫败感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2100239838117007794",
+        "created_at": "2026-09-16T15:31:28.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100246197948883423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100246197948883423",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100239838117007794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 嗯，如果是初学者发生这种事情也很正常的吧。不用太苛责呀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100246833490788827",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 3395,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 930
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2100246542779367519",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1789367389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 723,
+          "like_count": 19616,
+          "listed_count": 0,
+          "media_count": 611,
+          "tweet_count": 9301
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

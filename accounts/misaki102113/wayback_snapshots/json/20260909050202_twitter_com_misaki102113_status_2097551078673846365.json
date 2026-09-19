@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2097550548425965737",
+    "created_at": "2026-09-09T05:02:02.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097551078673846365"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097551078673846365",
+    "in_reply_to_user_id": "1978297494464585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097550548425965737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关键是神经内科是我父母去开的，而他俩真的得过带状疱疹…然而医生说院里没有这款药，所以开不了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097550548425965737",
+        "created_at": "2026-09-09T05:02:02.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097551078673846365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097551078673846365",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097550548425965737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关键是神经内科是我父母去开的，而他俩真的得过带状疱疹…然而医生说院里没有这款药，所以开不了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097550548425965737",
+        "created_at": "2026-09-09T04:59:56.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097550548425965737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097550548425965737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里能开到pr80呢？精卫中心的医生说我可以吃…但是跑了两家三甲医院，无论是在神经内科说带状疱疹后神经痛还是在精神科说自己焦虑都开不出来…医生说系统里没有这个药（？）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097551078673846365",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 3173,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

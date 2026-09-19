@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2092547151499083976",
+    "created_at": "2026-08-26T10:50:34.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092565358733582615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092565358733582615",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092547151499083976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2092547151499083976",
+        "created_at": "2026-08-26T10:50:34.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092565358733582615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092565358733582615",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092547151499083976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2092547151499083976",
+        "created_at": "2026-08-26T09:38:13.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092547151499083976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092547151499083976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱在友友的首页出现过嘛…\n感觉咱好没有存在感\n有人可以抱抱咱嘛…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092565358733582615",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 3067,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高二｜没钱，暂时蓝v｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜179cm/65kg｜百合｜交通迷｜无聊｜想被抱抱…\n小号备用：@Natsuki_nz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Natsuki_nz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/natsuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/natsuki803.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Wqo3MVUKbY"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2092547505632477574",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2089939190515736604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 411,
+          "like_count": 2475,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/Wqo3MVUKbY",
+        "username": "Natsuki_803nz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098803830930690068",
+    "created_at": "2026-09-12T16:12:53.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098807066412589329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098807066412589329",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098803830930690068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 晚安…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098803830930690068",
+        "created_at": "2026-09-12T16:12:53.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098807066412589329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098807066412589329",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098803830930690068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 晚安…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2098803830930690068",
+        "created_at": "2026-09-12T16:00:01.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098803830930690068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098803830930690068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "遗书（临时起意瞎写的）\n呃其实我感觉没什么好说的，熟悉我的了解我的都或多或少知道一些我的经历，不熟悉我的也没必要了解了，我不想被不相干的人拿来批判或者笑话，嗯就这样吧\n还有其实我一直都很怕s，其实我可以说没有任何心理/精神疾病，来自过往的回忆和原生家庭的经历所造成的痛苦尚在可抗压范围内，一直相似只是单纯好奇s后的世界到底是怎样的，但是又没人能告诉我对吧，那只好我自己亲自去「看看」了，嗯对就这么简单相信我\n谢谢大家的陪伴 有缘再会😊\n\n“假如再也见不到你，祝你早安、午安、晚安”\n\n（我还能活吗？\n这都发出来了应该没活吧\n——9/11 6:00）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "遗书（临时起意瞎写的）\n呃其实我感觉没什么好说的，熟悉我的了解我的都或多或少知道一些我的经历，不熟悉我的也没必要了解了，我不想被不相干的人拿来批判或者笑话，嗯就这样吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098807066412589329",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 3254,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)｜互fo｜纯良xyn\n防失联tg群https://t.co/XZkgF2x3HZ\n第一人格@Wrin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Wrin520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+mn26KZjvhyVlZ…",
+                "end": 52,
+                "expanded_url": "https://t.me/+mn26KZjvhyVlZDEx",
+                "start": 29,
+                "url": "https://t.co/XZkgF2x3HZ"
+              }
+            ]
+          }
+        },
+        "id": "1153430387504373764",
+        "is_identity_verified": false,
+        "location": "Archangel, Russia",
+        "most_recent_tweet_id": "2098803830930690068",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2096183201689715032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153430387504373764/1781704040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087441813909217280/uKEPeOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 453,
+          "like_count": 905,
+          "listed_count": 6,
+          "media_count": 90,
+          "tweet_count": 2341
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

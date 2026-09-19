@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098828818098294882",
+    "created_at": "2026-09-12T17:42:45.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098829684880638100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098829684880638100",
+    "in_reply_to_user_id": "1978297494464585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098828818098294882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃过莱博雷生，阿普唑仑，劳拉西泮，奥沙西泮，（右）佐匹克隆，扎来普隆，思诺思，普瑞巴林…但对我的睡眠都没什么帮助…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098828818098294882",
+        "created_at": "2026-09-12T17:42:45.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098829684880638100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098829684880638100",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098828818098294882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃过莱博雷生，阿普唑仑，劳拉西泮，奥沙西泮，（右）佐匹克隆，扎来普隆，思诺思，普瑞巴林…但对我的睡眠都没什么帮助…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098828818098294882",
+        "created_at": "2026-09-12T17:39:19.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098828818098294882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098828818098294882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最困扰我的是睡眠障碍而非焦虑抑郁…\n每天都要吃一大堆安眠药才睡得着\n经常在床上躺好久都没有困意…然后就开始胡思乱想…然后就是躯体化\n再之后就是抱着自毁的心态吃一大堆药或者疯狂的歌手…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098829684880638100",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 3252,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

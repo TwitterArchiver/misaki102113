@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2097938926694748597",
+    "created_at": "2026-09-10T07:36:53.000Z",
+    "display_text_range": [
+      10,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097952436753514711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467659726",
+          "start": 0,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097952436753514711",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097950005273444731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorstCat 我在就是这样做的，直接去便民门诊点的菜，然而他不给我开😅现在我有医嘱但吃不上药😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097938926694748597",
+        "created_at": "2026-09-10T07:36:53.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097952436753514711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097952436753514711",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097950005273444731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我在就是这样做的，直接去便民门诊点的菜，然而他不给我开😅现在我有医嘱但吃不上药😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097938926694748597",
+        "created_at": "2026-09-10T07:27:13.000Z",
+        "display_text_range": [
+          14,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097950005273444731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097950005273444731",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097938926694748597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 宝宝你千万不要拿着药盒去便民门诊/方便门诊直接点菜 问你说坐骨神经痛，不然他就直接开了跳过问诊流程了这样很不好，还是要经过医生认真问诊评估判断，才能决定哪种药更适合你的，一定要遵循医嘱用药才会好起来呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097952436753514711",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 3196,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097952403266121770",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 103,
+          "like_count": 18531,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 2632
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

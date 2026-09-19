@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098782082344665451",
+    "created_at": "2026-09-12T16:11:57.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098806831909159052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902046879166468096",
+          "start": 0,
+          "username": "awaTsuki1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098806831909159052",
+    "in_reply_to_user_id": "1902046879166468096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098782082344665451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaTsuki1111 不要不要不要不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098782082344665451",
+        "created_at": "2026-09-12T16:11:57.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098806831909159052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902046879166468096",
+              "start": 0,
+              "username": "awaTsuki1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098806831909159052",
+        "in_reply_to_user_id": "1902046879166468096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098782082344665451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaTsuki1111 不要不要不要不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902046879166468096",
+        "conversation_id": "2098782082344665451",
+        "created_at": "2026-09-12T14:33:36.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098782082344665451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098782082344665451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也就是说，曲马多开不到可以用酸奶葡萄代替，再加上pr和bzd也可以成功，对吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098806831909159052",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 3254,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-18T17:18:28.000Z",
+        "description": "04年男生，od自残，重抑重焦\n总之就是烂人一个\n欢迎找我匿名提问\nhttps://t.co/01BuPOlAXf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awatsuki1111",
+                "end": 57,
+                "expanded_url": "https://ngl.link/awatsuki1111",
+                "start": 34,
+                "url": "https://t.co/01BuPOlAXf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4bD-ndvMmSIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4bD-ndvMmSIzMWJl",
+                "start": 0,
+                "url": "https://t.co/gFG7IsvbtC"
+              }
+            ]
+          }
+        },
+        "id": "1902046879166468096",
+        "is_identity_verified": false,
+        "location": "石家庄",
+        "most_recent_tweet_id": "2098783543346561188",
+        "name": "awaTsuki",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055909459688603648/OCNIfSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 71,
+          "like_count": 891,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/gFG7IsvbtC",
+        "username": "awaTsuki1111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

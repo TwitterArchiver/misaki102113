@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2097701694822023647",
+    "created_at": "2026-09-09T15:39:04.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097711393520877747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057831680308920320",
+          "start": 0,
+          "username": "Wrin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097711393520877747",
+    "in_reply_to_user_id": "2057831680308920320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097701694822023647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrin520 不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097701694822023647",
+        "created_at": "2026-09-09T15:39:04.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097711393520877747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057831680308920320",
+              "start": 0,
+              "username": "Wrin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097711393520877747",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097701694822023647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrin520 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057831680308920320",
+        "conversation_id": "2097701694822023647",
+        "created_at": "2026-09-09T15:00:32.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097701694822023647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097701694822023647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「头孢配酒」的测试已经过去，接下来登场的是「测试口服10g亚盐能撑多久不死」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097711393520877747",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 3189,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:31:45.000Z",
+        "description": "简介不知道写什么喵\n我是Wrin\n纯日常帖 希望得到关心谢谢喵\n第二人格@xiangcai_nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "xiangcai_nya"
+              }
+            ]
+          }
+        },
+        "id": "2057831680308920320",
+        "is_identity_verified": false,
+        "location": "黑塔空间站",
+        "most_recent_tweet_id": "2097711376412406163",
+        "name": "Wrin🍥✝️❤️🔞🚾0️⃣🩸💊💣",
+        "pinned_tweet_id": "2096639275362304501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057831680308920320/1781621617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 373,
+          "like_count": 428,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "Wrin520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098483558361010655",
+    "created_at": "2026-09-12T00:16:25.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098566365569577355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hq_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098566365569577355",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098491699047931917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hq_chihiro 嗯，有处理伤口的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098483558361010655",
+        "created_at": "2026-09-12T00:16:25.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098566365569577355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hq_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098566365569577355",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098491699047931917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hq_chihiro 嗯，有处理伤口的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "2098483558361010655",
+        "created_at": "2026-09-11T19:19:43.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098491699047931917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098491699047931917",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098483558361010655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 消毒，包扎。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098566365569577355",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 3241,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "光荣在于平淡，艰巨在于漫长",
+        "id": "1444640763070005251",
+        "is_identity_verified": false,
+        "location": "Northeast China",
+        "most_recent_tweet_id": "2098491699047931917",
+        "name": "hqin",
+        "pinned_tweet_id": "1704143724668752295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444640763070005251/1784726962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097767523169210368/d8GBLslS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1087,
+          "like_count": 18387,
+          "listed_count": 8,
+          "media_count": 587,
+          "tweet_count": 8633
+        },
+        "url": "",
+        "username": "hq_chihiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

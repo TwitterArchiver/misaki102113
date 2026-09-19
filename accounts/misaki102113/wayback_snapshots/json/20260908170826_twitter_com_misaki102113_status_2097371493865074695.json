@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2097371246514323856",
+    "created_at": "2026-09-08T17:08:26.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097371493865074695"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097371493865074695",
+    "in_reply_to_user_id": "1978297494464585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097371246514323856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "声明一下我全程没有使用过任何药物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_2097371235416158208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtcBrkaMAAKl_I.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097371246514323856",
+        "created_at": "2026-09-08T17:08:26.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097371493865074695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097371493865074695",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097371246514323856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "声明一下我全程没有使用过任何药物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097371235416158208"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2097371246514323856",
+        "created_at": "2026-09-08T17:07:27.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097371246514323856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7iCrHUHgh",
+              "end": 34,
+              "expanded_url": "https://x.com/misaki102113/status/2097371246514323856/photo/1",
+              "media_key": "3_2097371235416158208",
+              "start": 11,
+              "url": "https://t.co/N7iCrHUHgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097371246514323856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097371235416158208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个很奇怪的梦… https://t.co/N7iCrHUHgh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097371493865074695",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 3169,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

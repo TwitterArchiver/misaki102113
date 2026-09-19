@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2099676030164431313",
+    "created_at": "2026-09-15T05:54:32.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099738616893493706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018248488773898240",
+          "start": 0,
+          "username": "Box3_ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099738616893493706",
+    "in_reply_to_user_id": "2018248488773898240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099676030164431313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_ji 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2099676030164431313",
+        "created_at": "2026-09-15T05:54:32.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099738616893493706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018248488773898240",
+              "start": 0,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099738616893493706",
+        "in_reply_to_user_id": "2018248488773898240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099676030164431313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_ji 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018248488773898240",
+        "conversation_id": "2099676030164431313",
+        "created_at": "2026-09-15T01:45:50.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099676030164431313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099676030164431313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ww盐终于到了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099738616893493706",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 3361,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T09:02:14.000Z",
+        "description": "🩵泥豪_❛˓◞˂̵✧🩷社恐致歉🤍无证含糖🍥（暂时中断）🩷双相🩵\n🩵生产日期2012.4.6🩷无政府主义者🤍亚文化🩷自残🩵",
+        "id": "2018248488773898240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099726581233238123",
+        "name": "Box🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2098679365189976462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018248488773898240/1789314183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092930234664574976/i9QCz-sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 57,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Box3_ji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

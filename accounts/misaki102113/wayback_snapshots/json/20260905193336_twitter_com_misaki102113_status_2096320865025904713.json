@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2096308761594126702",
+    "created_at": "2026-09-05T19:33:36.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096320865025904713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084962887836254209",
+          "start": 0,
+          "username": "Mikolht918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096320865025904713",
+    "in_reply_to_user_id": "2084962887836254209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096318891161227303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikolht918 唔…只是…割手能让我很大程度上感到好一些…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2096308761594126702",
+        "created_at": "2026-09-05T19:33:36.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096320865025904713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084962887836254209",
+              "start": 0,
+              "username": "Mikolht918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096320865025904713",
+        "in_reply_to_user_id": "2084962887836254209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096318891161227303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikolht918 唔…只是…割手能让我很大程度上感到好一些…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084962887836254209",
+        "conversation_id": "2096308761594126702",
+        "created_at": "2026-09-05T19:25:46.000Z",
+        "display_text_range": [
+          14,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096318891161227303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096318891161227303",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096308761594126702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 不知道老大你是因为什么关注我的  嗯但是看着很不是滋味  老大要不要试试用和别人聊聊天来替代这种行为？我可以随时听老大你吐槽的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096320865025904713",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 3132,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T11:21:58.000Z",
+        "description": "什么都玩一点吧  嗯  欢迎聊天",
+        "id": "2084962887836254209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096318891161227303",
+        "name": "Miko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084962887836254209/1787503691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094483994947776512/o6IQ-CVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Mikolht918",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100576412747043319",
+    "created_at": "2026-09-17T17:44:44.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100642121829245248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsksyrx_xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100642121829245248",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100576412747043319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsksyrx_xl 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100576412747043319",
+        "created_at": "2026-09-17T17:44:44.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100642121829245248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsksyrx_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100642121829245248",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100576412747043319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsksyrx_xl 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2100576412747043319",
+        "created_at": "2026-09-17T13:23:38.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100576412747043319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100576412747043319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来我还是太天真了呢…\n果然呢…我怎么值得被爱嘛…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100642121829245248",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 3442,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 978
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n头像自设OC稿件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "真是一个笨蛋呢…",
+        "most_recent_tweet_id": "2100611081605713949",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 683,
+          "like_count": 6143,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

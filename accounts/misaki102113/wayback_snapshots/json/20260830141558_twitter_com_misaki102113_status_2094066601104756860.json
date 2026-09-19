@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2094049301257425322",
+    "created_at": "2026-08-30T14:15:58.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094066601104756860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2006707388053860365",
+          "start": 0,
+          "username": "cqbr2375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094066601104756860",
+    "in_reply_to_user_id": "2006707388053860365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094049301257425322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cqbr2375 不要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2094049292633968641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-OvKWbEAE8yRT.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2094049301257425322",
+        "created_at": "2026-08-30T14:15:58.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094066601104756860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2006707388053860365",
+              "start": 0,
+              "username": "cqbr2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094066601104756860",
+        "in_reply_to_user_id": "2006707388053860365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094049301257425322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cqbr2375 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094049292633968641"
+          ]
+        },
+        "author_id": "2006707388053860365",
+        "conversation_id": "2094049301257425322",
+        "created_at": "2026-08-30T13:07:13.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094049301257425322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSt3rHaxdI",
+              "end": 48,
+              "expanded_url": "https://x.com/cqbr2375/status/2094049301257425322/photo/1",
+              "media_key": "3_2094049292633968641",
+              "start": 25,
+              "url": "https://t.co/JSt3rHaxdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094049301257425322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094049292633968641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这些药加上二十克普瑞原粉和西柚汁和酒，应该够了的 https://t.co/JSt3rHaxdI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094066601104756860",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 3085,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T12:41:49.000Z",
+        "description": "2009，mtf，双相，出院，休学\n个性……身边的人都觉得我缺爱有不安全感导致惹人烦",
+        "id": "2006707388053860365",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094065754077647031",
+        "name": "未然ぬ🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006707388053860365/1784643433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081734249774751744/Dx5gvGuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 446,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "cqbr2375",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

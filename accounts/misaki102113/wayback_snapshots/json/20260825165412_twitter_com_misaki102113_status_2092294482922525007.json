@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2092236215638790420",
+    "created_at": "2026-08-25T16:54:12.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092294482922525007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605093608910381056",
+          "start": 0,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092294482922525007",
+    "in_reply_to_user_id": "1605093608910381056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092236215638790420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suekageseikiyo 也对…至少比死掉要好一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2092236215638790420",
+        "created_at": "2026-08-25T16:54:12.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092294482922525007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605093608910381056",
+              "start": 0,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092294482922525007",
+        "in_reply_to_user_id": "1605093608910381056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092236215638790420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suekageseikiyo 也对…至少比死掉要好一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2092236215638790420",
+        "created_at": "2026-08-25T13:02:40.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092236215638790420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092236215638790420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少喝盐多od\n反正都准备死了不如试试药物能不能暂时把你带离糟糕绝望的感受，多活一天、再多活一天，活下去才是好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092294482922525007",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 3058,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 736
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092260034604355954",
+        "name": "末末",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605093608910381056/1771945016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 622,
+          "like_count": 10810,
+          "listed_count": 7,
+          "media_count": 228,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2099731978853687423",
+    "created_at": "2026-09-15T05:50:39.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099737640082059728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845116988181577728",
+          "start": 0,
+          "username": "tangtang1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099737640082059728",
+    "in_reply_to_user_id": "1845116988181577728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099731978853687423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangtang1204 不要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2099731966677708800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSO_GU1bcAAFiP9.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2099731978853687423",
+        "created_at": "2026-09-15T05:50:39.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099737640082059728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845116988181577728",
+              "start": 0,
+              "username": "tangtang1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099737640082059728",
+        "in_reply_to_user_id": "1845116988181577728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099731978853687423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangtang1204 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099731966677708800"
+          ]
+        },
+        "author_id": "1845116988181577728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099731978853687423",
+        "created_at": "2026-09-15T05:28:09.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099731978853687423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vir9kMCtdC",
+              "end": 42,
+              "expanded_url": "https://x.com/tangtang1204/status/2099731978853687423/photo/1",
+              "media_key": "3_2099731966677708800",
+              "start": 19,
+              "url": "https://t.co/vir9kMCtdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099731978853687423",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099731966677708800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买到盐了，应该够死了，等一个良辰吉日 https://t.co/vir9kMCtdC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099737640082059728",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 3358,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T14:59:15.000Z",
+        "description": "05/女同/地雷妹/od/割手/我爱我的小猫/我也喜欢所有可爱的孩子/https://t.co/UbgjEj3jy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangtang1204",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tangtang1204",
+                "start": 35,
+                "url": "https://t.co/UbgjEj3jy1"
+              }
+            ]
+          }
+        },
+        "id": "1845116988181577728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099731978853687423",
+        "name": "小糖",
+        "pinned_tweet_id": "2062313240840032330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845116988181577728/1778875273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062138922386550784/kXcvR_xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 171,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "tangtang1204",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

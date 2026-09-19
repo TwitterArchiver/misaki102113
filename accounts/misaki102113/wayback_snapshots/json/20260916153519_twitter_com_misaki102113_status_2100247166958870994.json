@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2100243281577976116",
+    "created_at": "2026-09-16T15:35:19.000Z",
+    "display_text_range": [
+      17,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100247166958870994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700935161301655552",
+          "start": 0,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100247166958870994",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100246524362186932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingshixiang258 啊…其实也能说是不差钱…我只要手里的钱够吃饭就行了，我也没打算活到需要考虑未来的年纪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2100243281577976116",
+        "created_at": "2026-09-16T15:35:19.000Z",
+        "display_text_range": [
+          17,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100247166958870994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100247166958870994",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100246524362186932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 啊…其实也能说是不差钱…我只要手里的钱够吃饭就行了，我也没打算活到需要考虑未来的年纪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2100243281577976116",
+        "created_at": "2026-09-16T15:32:46.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100246524362186932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100246524362186932",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100246141975867734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 羡慕不差钱…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100247166958870994",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 3395,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "is_identity_verified": false,
+        "location": "风起地",
+        "most_recent_tweet_id": "2100246524362186932",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1785071301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098859467203035136/6PesI1Th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 1670,
+          "like_count": 46143,
+          "listed_count": 8,
+          "media_count": 1424,
+          "tweet_count": 21969
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

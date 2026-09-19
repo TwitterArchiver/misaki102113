@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2089391817599189222",
+    "created_at": "2026-08-19T12:14:08.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090049674631864466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708489817191821312",
+          "start": 0,
+          "username": "Gues114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090049674631864466",
+    "in_reply_to_user_id": "1708489817191821312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089859361212403876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gues114514 谢谢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2089391817599189222",
+        "created_at": "2026-08-19T12:14:08.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090049674631864466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708489817191821312",
+              "start": 0,
+              "username": "Gues114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090049674631864466",
+        "in_reply_to_user_id": "1708489817191821312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089859361212403876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gues114514 谢谢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708489817191821312",
+        "conversation_id": "2089391817599189222",
+        "created_at": "2026-08-18T23:37:54.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089859361212403876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089859361212403876",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089391817599189222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 抱抱泥（（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大一计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090049674631864466",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 2987,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T14:31:50.000Z",
+        "description": "我是前1~2~2~4~H~u~a~n~g~J~i~n",
+        "id": "1708489817191821312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089859871537504293",
+        "name": "用户114514",
+        "pinned_tweet_id": "1845105108427616385",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602675859501056/iPCN_1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 96,
+          "like_count": 4471,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1123
+        },
+        "url": "",
+        "username": "Gues114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

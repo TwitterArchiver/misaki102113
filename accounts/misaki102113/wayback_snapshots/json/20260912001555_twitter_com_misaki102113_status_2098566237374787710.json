@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098483558361010655",
+    "created_at": "2026-09-12T00:15:55.000Z",
+    "display_text_range": [
+      9,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098566237374787710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530832862093594624",
+          "start": 0,
+          "username": "whwzfyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098566237374787710",
+    "in_reply_to_user_id": "1530832862093594624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098541874466394457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whwzfyl 啊啊啊没关系的，伤口很浅，只是我个人比较喜欢看血流出来，所以乍一看有点吓人（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098483558361010655",
+        "created_at": "2026-09-12T00:15:55.000Z",
+        "display_text_range": [
+          9,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098566237374787710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530832862093594624",
+              "start": 0,
+              "username": "whwzfyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098566237374787710",
+        "in_reply_to_user_id": "1530832862093594624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098541874466394457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whwzfyl 啊啊啊没关系的，伤口很浅，只是我个人比较喜欢看血流出来，所以乍一看有点吓人（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530832862093594624",
+        "conversation_id": "2098483558361010655",
+        "created_at": "2026-09-11T22:39:06.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T23:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098541874466394457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098541874466394457",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098483558361010655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 消毒，全面消毒，必要时还是直接去医院吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098566237374787710",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 3241,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "绝对忠诚，精干内行",
+        "id": "1530832862093594624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098541874466394457",
+        "name": "平田一郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530832862093594624/1788102481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094931111315226624/4sdmjD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 253,
+          "like_count": 18823,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 5510
+        },
+        "url": "",
+        "username": "whwzfyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

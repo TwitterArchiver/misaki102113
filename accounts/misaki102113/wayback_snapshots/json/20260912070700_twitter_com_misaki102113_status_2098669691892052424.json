@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2098599537690746954",
+    "created_at": "2026-09-12T07:07:00.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098669691892052424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760956960713723904",
+          "start": 0,
+          "username": "IkBMJBXmsi34983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098669691892052424",
+    "in_reply_to_user_id": "1760956960713723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098599537690746954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IkBMJBXmsi34983 只是想用痛觉来增强活着的实感…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2098599537690746954",
+        "created_at": "2026-09-12T07:07:00.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098669691892052424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760956960713723904",
+              "start": 0,
+              "username": "IkBMJBXmsi34983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098669691892052424",
+        "in_reply_to_user_id": "1760956960713723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098599537690746954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IkBMJBXmsi34983 只是想用痛觉来增强活着的实感…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760956960713723904",
+        "conversation_id": "2098599537690746954",
+        "created_at": "2026-09-12T02:28:14.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098599537690746954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098599537690746954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥要改花刀啊 我不是很理解这个行为 是想寻死还是只是想用疼痛来麻痹自己或是以此来证明自己还活着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098669691892052424",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 3248,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-23T09:17:22.000Z",
+        "description": "信じるものを信じ、できることを尽くす。",
+        "id": "1760956960713723904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098653750483403009",
+        "name": "江清澤",
+        "pinned_tweet_id": "2011815905425084563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760956960713723904/1788849832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097200651357003776/po6Ff6tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "IkBMJBXmsi34983",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
