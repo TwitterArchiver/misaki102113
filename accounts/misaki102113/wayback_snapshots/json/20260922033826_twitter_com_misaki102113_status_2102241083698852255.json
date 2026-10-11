@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2102241083698852255",
+    "created_at": "2026-09-22T03:38:26.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102241083698852255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2102204360327671809",
+          "start": 3,
+          "username": "4nVi2ge7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102241083698852255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102206597686800595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4nVi2ge7Y: 我的账号又一次被冻结。\n有点不好意思找回互关，因为我明知道不可以发自伤自杀的推文...但有的时候我发作了会忘乎所以控制不住。\n如果你看到这篇推文，是否可以帮我转发呢？...\n我真的不好意思再去找回互关诶。算了啦。\n&gt;_&lt;。虽然这样说，但我现在就想哭…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2102206587976978432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyJwPjakAAtVuz.jpg",
+        "width": 366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2102241083698852255",
+        "created_at": "2026-09-22T03:38:26.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102241083698852255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2102204360327671809",
+              "start": 3,
+              "username": "4nVi2ge7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102241083698852255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102206597686800595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4nVi2ge7Y: 我的账号又一次被冻结。\n有点不好意思找回互关，因为我明知道不可以发自伤自杀的推文...但有的时候我发作了会忘乎所以控制不住。\n如果你看到这篇推文，是否可以帮我转发呢？...\n我真的不好意思再去找回互关诶。算了啦。\n&gt;_&lt;。虽然这样说，但我现在就想哭…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102206587976978432"
+          ]
+        },
+        "author_id": "2102204360327671809",
+        "conversation_id": "2102206597686800595",
+        "created_at": "2026-09-22T01:21:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102206597686800595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDfkCQSBQT",
+              "end": 164,
+              "expanded_url": "https://x.com/4nVi2ge7Y/status/2102206597686800595/photo/1",
+              "media_key": "3_2102206587976978432",
+              "start": 141,
+              "url": "https://t.co/ZDfkCQSBQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102206597686800595",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102206587976978432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的账号又一次被冻结。\n有点不好意思找回互关，因为我明知道不可以发自伤自杀的推文...但有的时候我发作了会忘乎所以控制不住。\n如果你看到这篇推文，是否可以帮我转发呢？...\n我真的不好意思再去找回互关诶。算了啦。\n&gt;_&lt;。虽然这样说，但我现在就想哭着要我的互关回家嘛！ https://t.co/ZDfkCQSBQT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102241083698852255",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 3552,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-22T01:14:40.000Z",
+        "description": "愛，愛，愛",
+        "id": "2102204360327671809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102230948951785771",
+        "name": "S3raph_1m9v",
+        "pinned_tweet_id": "2102206597686800595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102204360327671809/1790039808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102205066707156992/t_4XPOTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "4nVi2ge7Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

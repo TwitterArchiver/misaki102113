@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2104093391642607853",
+    "created_at": "2026-09-28T11:31:28.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104534452437385345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "897418621688754176",
+          "start": 0,
+          "username": "1DJrUY7FDjE3i3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104534452437385345",
+    "in_reply_to_user_id": "897418621688754176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104103113162690795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1DJrUY7FDjE3i3H 我是真体验够了（）\n感觉好难受，再也不想经历了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2104093391642607853",
+        "created_at": "2026-09-28T11:31:28.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104534452437385345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "897418621688754176",
+              "start": 0,
+              "username": "1DJrUY7FDjE3i3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104534452437385345",
+        "in_reply_to_user_id": "897418621688754176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104103113162690795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1DJrUY7FDjE3i3H 我是真体验够了（）\n感觉好难受，再也不想经历了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897418621688754176",
+        "conversation_id": "2104093391642607853",
+        "created_at": "2026-09-27T06:57:29.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104103113162690795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104103113162690795",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104093391642607853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 我感觉这种感觉当时很可怕，回过味来后我却还想再体验一次"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104534452437385345",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 3633,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-15T11:24:07.000Z",
+        "description": "",
+        "id": "897418621688754176",
+        "is_identity_verified": false,
+        "location": "世界尽头",
+        "most_recent_tweet_id": "2104486189302698397",
+        "name": "汽修三班结成理",
+        "pinned_tweet_id": "1518266511495811072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/897418621688754176/1651921870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102587544861114368/tAoZBSeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 77,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "1DJrUY7FDjE3i3H",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

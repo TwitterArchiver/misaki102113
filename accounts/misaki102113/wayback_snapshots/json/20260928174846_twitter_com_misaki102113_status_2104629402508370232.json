@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104629345822347264"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2104629402508370232",
+    "created_at": "2026-09-28T17:48:46.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104629402508370232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LEWJ6T3FWv",
+          "end": 58,
+          "expanded_url": "https://x.com/misaki102113/status/2104629402508370232/video/1",
+          "media_key": "13_2104629345822347264",
+          "start": 35,
+          "url": "https://t.co/LEWJ6T3FWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104629402508370232",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104629345822347264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家展示一下蓝图的品控，这车一共骑了200公里，变速不超过100次 https://t.co/LEWJ6T3FWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22165,
+        "height": 1280,
+        "media_key": "13_2104629345822347264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104629345822347264/img/jBrX1PA4CyrxInNo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104629345822347264/vid/avc1/320x568/yYJ0gLi6-CQDmBNY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104629345822347264/vid/avc1/480x852/J084gURnxJWzmz2f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104629345822347264/vid/avc1/720x1280/-fej1AakKYKsqhrn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104629345822347264/pl/v1nSwXXw_TedkFYS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104629345822347264"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2104629402508370232",
+        "created_at": "2026-09-28T17:48:46.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104629402508370232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEWJ6T3FWv",
+              "end": 58,
+              "expanded_url": "https://x.com/misaki102113/status/2104629402508370232/video/1",
+              "media_key": "13_2104629345822347264",
+              "start": 35,
+              "url": "https://t.co/LEWJ6T3FWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104629402508370232",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104629345822347264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家展示一下蓝图的品控，这车一共骑了200公里，变速不超过100次 https://t.co/LEWJ6T3FWv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104629402508370232",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 3638,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

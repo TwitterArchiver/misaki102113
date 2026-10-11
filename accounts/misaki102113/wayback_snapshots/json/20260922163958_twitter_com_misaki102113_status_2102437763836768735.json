@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2102094375119638801",
+    "created_at": "2026-09-22T16:39:58.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102437763836768735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102437763836768735",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102143417233166415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK 唉…尊重大家的决定…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2102143411587567616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxQS5Ka0AA03jx.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2102094375119638801",
+        "created_at": "2026-09-22T16:39:58.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102437763836768735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102437763836768735",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102143417233166415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK 唉…尊重大家的决定…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102143411587567616"
+          ]
+        },
+        "author_id": "1767453480065839104",
+        "conversation_id": "2102094375119638801",
+        "created_at": "2026-09-21T21:10:21.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102143417233166415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVp33JsJOO",
+              "end": 52,
+              "expanded_url": "https://x.com/Lone_Wolf_CYK/status/2102143417233166415/photo/1",
+              "media_key": "3_2102143411587567616",
+              "start": 29,
+              "url": "https://t.co/WVp33JsJOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102143417233166415",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102143411587567616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102094375119638801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 不知道是要哭還是要高興嗷…… https://t.co/WVp33JsJOO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102437763836768735",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 3576,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "| 小帳: @YK_C_8964 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "YK_C_8964"
+              }
+            ]
+          }
+        },
+        "id": "1767453480065839104",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2102353626652086579",
+        "name": "YK C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767453480065839104/1777511228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059903559278440448/DzORE7-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1585,
+          "like_count": 75921,
+          "listed_count": 4,
+          "media_count": 1898,
+          "tweet_count": 17469
+        },
+        "url": "",
+        "username": "Lone_Wolf_CYK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

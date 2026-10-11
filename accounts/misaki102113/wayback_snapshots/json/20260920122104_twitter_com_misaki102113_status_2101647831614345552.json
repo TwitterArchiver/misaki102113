@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2101630494211469431",
+    "created_at": "2026-09-20T12:21:04.000Z",
+    "display_text_range": [
+      28,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101647831614345552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2101253898568966144",
+          "start": 0,
+          "username": "Snowthaw_qwq"
+        },
+        {
+          "end": 27,
+          "id": "2101471889210441728",
+          "start": 14,
+          "username": "Snowthaw_QaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101647831614345552",
+    "in_reply_to_user_id": "2101253898568966144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101630494211469431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowthaw_qwq @Snowthaw_QaQ 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2101630494211469431",
+        "created_at": "2026-09-20T12:21:04.000Z",
+        "display_text_range": [
+          28,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101647831614345552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2101253898568966144",
+              "start": 0,
+              "username": "Snowthaw_qwq"
+            },
+            {
+              "end": 27,
+              "id": "2101471889210441728",
+              "start": 14,
+              "username": "Snowthaw_QaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101647831614345552",
+        "in_reply_to_user_id": "2101253898568966144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101630494211469431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowthaw_qwq @Snowthaw_QaQ 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2101253898568966144",
+        "conversation_id": "2101630494211469431",
+        "created_at": "2026-09-20T11:12:10.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101630494211469431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2101471889210441728",
+              "start": 11,
+              "username": "Snowthaw_QaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101630494211469431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对了，不用关注这个号了@Snowthaw_QaQ 我不会启用的，这是我最后一个号了，这个号没了，我就消失了，过一段时间后应该没人会记得我了，最好的结局了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101647831614345552",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 3505,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-19T10:18:28.000Z",
+        "description": "等待死亡中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 0,
+                "url": "https://t.co/2G0nRQQJVh"
+              }
+            ]
+          }
+        },
+        "id": "2101253898568966144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101630494211469431",
+        "name": "落雪藏绪4.0",
+        "pinned_tweet_id": "2101258582914457900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101253898568966144/1789813302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101255283519733760/4bHmQYNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 92,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/2G0nRQQJVh",
+        "username": "Snowthaw_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T00:51:11.000Z",
+        "description": "",
+        "id": "2101471889210441728",
+        "is_identity_verified": false,
+        "name": "落雪藏绪五代机",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Snowthaw_QaQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

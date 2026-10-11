@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101211144761544704",
+        "3_2101211152894283776",
+        "3_2101211159944908800",
+        "3_2101211170627805184"
+      ],
+      "media_source_tweet_id": [
+        "2101211176629657916",
+        "2101211176629657916",
+        "2101211176629657916",
+        "2101211176629657916"
+      ]
+    },
+    "author_id": "1978297494464585728",
+    "conversation_id": "2101548955347845159",
+    "created_at": "2026-09-20T05:48:10.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101548955347845159"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 26,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1814484555174424578",
+          "start": 3,
+          "username": "tsuyu_hiiragi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9b6o9uYVkz",
+          "end": 81,
+          "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+          "media_key": "3_2101211144761544704",
+          "start": 58,
+          "url": "https://t.co/9b6o9uYVkz"
+        },
+        {
+          "display_url": "pic.x.com/9b6o9uYVkz",
+          "end": 81,
+          "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+          "media_key": "3_2101211152894283776",
+          "start": 58,
+          "url": "https://t.co/9b6o9uYVkz"
+        },
+        {
+          "display_url": "pic.x.com/9b6o9uYVkz",
+          "end": 81,
+          "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+          "media_key": "3_2101211159944908800",
+          "start": 58,
+          "url": "https://t.co/9b6o9uYVkz"
+        },
+        {
+          "display_url": "pic.x.com/9b6o9uYVkz",
+          "end": 81,
+          "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+          "media_key": "3_2101211170627805184",
+          "start": 58,
+          "url": "https://t.co/9b6o9uYVkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101548955347845159",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101211144761544704"
+      },
+      {
+        "media_key": "3_2101211152894283776"
+      },
+      {
+        "media_key": "3_2101211159944908800"
+      },
+      {
+        "media_key": "3_2101211170627805184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1993
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101211176629657916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsuyu_hiiragi: ☦️昇天☦️\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/9b6o9uYVkz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101211144761544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkAZ0makAAcvq1.jpg",
+        "width": 1354
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101211152894283776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkAaS5aUAAy7Ub.jpg",
+        "width": 1402
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101211159944908800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkAatKaUAAELwV.jpg",
+        "width": 2721
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101211170627805184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkAbU9aYAAtOMk.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101211144761544704",
+            "3_2101211152894283776",
+            "3_2101211159944908800",
+            "3_2101211170627805184"
+          ],
+          "media_source_tweet_id": [
+            "2101211176629657916",
+            "2101211176629657916",
+            "2101211176629657916",
+            "2101211176629657916"
+          ]
+        },
+        "author_id": "1978297494464585728",
+        "conversation_id": "2101548955347845159",
+        "created_at": "2026-09-20T05:48:10.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101548955347845159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 26,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1814484555174424578",
+              "start": 3,
+              "username": "tsuyu_hiiragi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 81,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211144761544704",
+              "start": 58,
+              "url": "https://t.co/9b6o9uYVkz"
+            },
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 81,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211152894283776",
+              "start": 58,
+              "url": "https://t.co/9b6o9uYVkz"
+            },
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 81,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211159944908800",
+              "start": 58,
+              "url": "https://t.co/9b6o9uYVkz"
+            },
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 81,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211170627805184",
+              "start": 58,
+              "url": "https://t.co/9b6o9uYVkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101548955347845159",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101211144761544704"
+          },
+          {
+            "media_key": "3_2101211152894283776"
+          },
+          {
+            "media_key": "3_2101211159944908800"
+          },
+          {
+            "media_key": "3_2101211170627805184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101211176629657916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsuyu_hiiragi: ☦️昇天☦️\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/9b6o9uYVkz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101211144761544704",
+            "3_2101211152894283776",
+            "3_2101211159944908800",
+            "3_2101211170627805184"
+          ]
+        },
+        "author_id": "1814484555174424578",
+        "conversation_id": "2101211176629657916",
+        "created_at": "2026-09-19T07:25:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101211176629657916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 7,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 62,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211144761544704",
+              "start": 39,
+              "url": "https://t.co/9b6o9uYVkz"
+            },
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 62,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211152894283776",
+              "start": 39,
+              "url": "https://t.co/9b6o9uYVkz"
+            },
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 62,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211159944908800",
+              "start": 39,
+              "url": "https://t.co/9b6o9uYVkz"
+            },
+            {
+              "display_url": "pic.x.com/9b6o9uYVkz",
+              "end": 62,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2101211176629657916/photo/1",
+              "media_key": "3_2101211170627805184",
+              "start": 39,
+              "url": "https://t.co/9b6o9uYVkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101211176629657916",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101211144761544704"
+          },
+          {
+            "media_key": "3_2101211152894283776"
+          },
+          {
+            "media_key": "3_2101211159944908800"
+          },
+          {
+            "media_key": "3_2101211170627805184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1004,
+          "impression_count": 68614,
+          "like_count": 12123,
+          "quote_count": 16,
+          "reply_count": 4,
+          "retweet_count": 1993
+        },
+        "reply_settings": "everyone",
+        "text": "☦️昇天☦️\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/9b6o9uYVkz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101548955347845159",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 3497,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-20T02:17:07.000Z",
+        "description": "",
+        "id": "1814484555174424578",
+        "is_identity_verified": false,
+        "location": "どこか",
+        "most_recent_tweet_id": "2101226792962949510",
+        "name": "柊露",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814484555174424578/1735322114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872702288567123974/DqXbvu22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 79,
+          "like_count": 2348,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "tsuyu_hiiragi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

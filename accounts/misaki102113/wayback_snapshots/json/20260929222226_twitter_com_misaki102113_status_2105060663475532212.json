@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2104629402508370232",
+    "created_at": "2026-09-29T22:22:26.000Z",
+    "display_text_range": [
+      26,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T23:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105060663475532212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918022250445586437",
+          "start": 0,
+          "username": "h6038246968171"
+        },
+        {
+          "end": 25,
+          "id": "1845491203124441093",
+          "start": 16,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105060663475532212",
+    "in_reply_to_user_id": "1918022250445586437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105052770487443586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h6038246968171 @yu_huacs rcr Pro那个架子性价比太离谱了，2.5w买环赛战车，除了套件da变ut，以及没队版涂装之外没缺点啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1243,
+        "media_key": "3_2105052756780445696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTamVEla8AAJduD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2104629402508370232",
+        "created_at": "2026-09-29T22:22:26.000Z",
+        "display_text_range": [
+          26,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105060663475532212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918022250445586437",
+              "start": 0,
+              "username": "h6038246968171"
+            },
+            {
+              "end": 25,
+              "id": "1845491203124441093",
+              "start": 16,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105060663475532212",
+        "in_reply_to_user_id": "1918022250445586437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105052770487443586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h6038246968171 @yu_huacs rcr Pro那个架子性价比太离谱了，2.5w买环赛战车，除了套件da变ut，以及没队版涂装之外没缺点啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105052756780445696"
+          ]
+        },
+        "author_id": "1918022250445586437",
+        "conversation_id": "2104629402508370232",
+        "created_at": "2026-09-29T21:51:05.000Z",
+        "display_text_range": [
+          24,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T22:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105052770487443586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            },
+            {
+              "end": 23,
+              "id": "1845491203124441093",
+              "start": 14,
+              "username": "yu_huacs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyDKdPoUUz",
+              "end": 184,
+              "expanded_url": "https://x.com/h6038246968171/status/2105052770487443586/photo/1",
+              "media_key": "3_2105052756780445696",
+              "start": 161,
+              "url": "https://t.co/qyDKdPoUUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105052770487443586",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105052756780445696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104967572211073332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 @yu_huacs 要是喜欢折腾的话可以去海鲜翻翻，现在三代pp和四代瑞克多啥的都挺便宜。rcr这个架子也可以，但是对我来说那个尾钩太逆天了。之前本来是想试试攻队马赫的，然后看到一个挂4k的瑞克多4000车架，直接拿下。配件直接拆原车的8170，林林总总大概1.5这样\n怎么说吧，挺合我胃口的 https://t.co/qyDKdPoUUz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105060663475532212",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 3645,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-01T19:18:43.000Z",
+        "description": "不怎么逛推，失踪人口",
+        "id": "1918022250445586437",
+        "is_identity_verified": false,
+        "location": "朝鲜",
+        "most_recent_tweet_id": "2105052770487443586",
+        "name": "h",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086553461290930176/UIBA_GHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "h6038246968171",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的男婊子公路车技师\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\n喜欢的人@8964yekatinez    尼桑@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "8964yekatinez"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104984706861379837",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2079482546564526504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845491203124441093/1774367382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1624,
+          "like_count": 127857,
+          "listed_count": 8,
+          "media_count": 2215,
+          "tweet_count": 21113
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

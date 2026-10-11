@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2104093391642607853",
+    "created_at": "2026-09-27T06:55:34.000Z",
+    "display_text_range": [
+      14,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T07:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104102631329173588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819726141864964096",
+          "start": 0,
+          "username": "Harukawaiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104102631329173588",
+    "in_reply_to_user_id": "1819726141864964096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104101513488679298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harukawaiiko 感觉不太像，我更接近于是陷入一个现实与噩梦的叠加态，然后很难靠意志力让自己清醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2104093391642607853",
+        "created_at": "2026-09-27T06:55:34.000Z",
+        "display_text_range": [
+          14,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104102631329173588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819726141864964096",
+              "start": 0,
+              "username": "Harukawaiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104102631329173588",
+        "in_reply_to_user_id": "1819726141864964096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104101513488679298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harukawaiiko 感觉不太像，我更接近于是陷入一个现实与噩梦的叠加态，然后很难靠意志力让自己清醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819726141864964096",
+        "conversation_id": "2104093391642607853",
+        "created_at": "2026-09-27T06:51:07.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104101513488679298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104101513488679298",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104093391642607853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 会不会是睡眠呼吸暂停呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104102631329173588",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 3627,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-03T13:25:06.000Z",
+        "description": "僕はいいこなの？ he/they🏳️‍🌈 中文/Eng/日本語勉強中\nsub @Harukawaruiko dom 暂无\n📷@Barbital_Hiball",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Harukawaruiko"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Barbital_Hiball"
+              }
+            ]
+          }
+        },
+        "id": "1819726141864964096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104101958781157404",
+        "name": "葉瑠歌",
+        "pinned_tweet_id": "2099909115523059920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819726141864964096/1781188539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003412040296407040/iZnA93pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 556,
+          "like_count": 2708,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1503
+        },
+        "url": "",
+        "username": "Harukawaiiko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

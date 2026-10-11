@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2104073189831868616",
+    "created_at": "2026-09-27T05:28:56.000Z",
+    "display_text_range": [
+      19,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T06:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104080830771642726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "927420836",
+          "start": 0,
+          "username": "eddyk0512"
+        },
+        {
+          "end": 18,
+          "id": "1613079089879076864",
+          "start": 11,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104080830771642726",
+    "in_reply_to_user_id": "927420836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104075264846373166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eddyk0512 @YunJiu 看满离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2104073189831868616",
+        "created_at": "2026-09-27T05:28:56.000Z",
+        "display_text_range": [
+          19,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104080830771642726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "927420836",
+              "start": 0,
+              "username": "eddyk0512"
+            },
+            {
+              "end": 18,
+              "id": "1613079089879076864",
+              "start": 11,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104080830771642726",
+        "in_reply_to_user_id": "927420836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104075264846373166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eddyk0512 @YunJiu 看满离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927420836",
+        "conversation_id": "2104073189831868616",
+        "created_at": "2026-09-27T05:06:49.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104075264846373166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104075264846373166",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104073189831868616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 這舞萌怎麼只有7個鍵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104080830771642726",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 3632,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1060
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-11-05T11:31:39.000Z",
+        "description": "♂️ 24y\n🎮 SDVX / jubeat / Chunithm / DJMAX / Minecraft / Stella Sora\n💩 Shit Retweet warning ⚠️",
+        "id": "927420836",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104075264846373166",
+        "name": "KOZETTO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/927420836/1788847551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087239925003624448/QOJvqCG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2322,
+          "like_count": 76930,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 29135
+        },
+        "url": "",
+        "username": "eddyk0512",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104073189831868616",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1772420117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108005,
+          "following_count": 832,
+          "like_count": 37975,
+          "listed_count": 303,
+          "media_count": 21573,
+          "tweet_count": 30465
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2102104560261296360",
+    "created_at": "2026-09-21T18:35:57.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T19:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102104560261296360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082437931290267648",
+          "start": 3,
+          "username": "Kinzyful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102104560261296360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101867288211362078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinzyful: 第一次挑战不吃药上课光是那个打铃声就够我喝 2778 壶的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2102104560261296360",
+        "created_at": "2026-09-21T18:35:57.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102104560261296360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082437931290267648",
+              "start": 3,
+              "username": "Kinzyful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102104560261296360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101867288211362078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinzyful: 第一次挑战不吃药上课光是那个打铃声就够我喝 2778 壶的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082437931290267648",
+        "conversation_id": "2101867288211362078",
+        "created_at": "2026-09-21T02:53:06.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101867288211362078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101867288211362078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次挑战不吃药上课光是那个打铃声就够我喝 2778 壶的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102104560261296360",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 3548,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:09:04.000Z",
+        "description": "迷失了就再迷失一些\n我的@chidianmaima",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "chidianmaima"
+              }
+            ]
+          }
+        },
+        "id": "2082437931290267648",
+        "is_identity_verified": false,
+        "location": "罩子外",
+        "most_recent_tweet_id": "2101987686391402707",
+        "name": "mistletoe",
+        "pinned_tweet_id": "2098683682475413619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082437931290267648/1789759124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097645023793926144/vA6HGbc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 94,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "Kinzyful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

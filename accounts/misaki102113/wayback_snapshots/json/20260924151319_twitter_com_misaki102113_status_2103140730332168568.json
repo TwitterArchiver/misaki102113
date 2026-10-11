@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2102844392600109532",
+    "created_at": "2026-09-24T15:13:19.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103140730332168568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746473298949750784",
+          "start": 0,
+          "username": "allforreiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103140730332168568",
+    "in_reply_to_user_id": "1746473298949750784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103124013522587882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allforreiri 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2102844392600109532",
+        "created_at": "2026-09-24T15:13:19.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103140730332168568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746473298949750784",
+              "start": 0,
+              "username": "allforreiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103140730332168568",
+        "in_reply_to_user_id": "1746473298949750784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103124013522587882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allforreiri 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746473298949750784",
+        "conversation_id": "2102844392600109532",
+        "created_at": "2026-09-24T14:06:53.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103124013522587882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978297494464585728",
+              "start": 0,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103124013522587882",
+        "in_reply_to_user_id": "1978297494464585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102844392600109532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki102113 偷偷观察别人手臂发现好多人都在自残……大家都很可怜……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103140730332168568",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 3592,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-14T10:04:25.000Z",
+        "description": "我就跟这个世界一样，这个世界是不会变的",
+        "id": "1746473298949750784",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2103139160081228151",
+        "name": "这又关你什么事",
+        "pinned_tweet_id": "2101327627202293925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746473298949750784/1784306502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103120518006407168/KIcVfVP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 102,
+          "like_count": 4605,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "allforreiri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

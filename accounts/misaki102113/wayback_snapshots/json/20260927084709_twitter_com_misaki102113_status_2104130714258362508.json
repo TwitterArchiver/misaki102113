@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1978297494464585728",
+    "conversation_id": "2104098835308171324",
+    "created_at": "2026-09-27T08:47:09.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104130714258362508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2076673089941950464",
+          "start": 0,
+          "username": "niklashausen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104130714258362508",
+    "in_reply_to_user_id": "2076673089941950464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104098835308171324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niklashausen 摸摸🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3436,
+        "height": 1080,
+        "media_key": "13_2104098796376567808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104098796376567808/img/qynPdlCjPOj6Xk0z.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104098796376567808/vid/avc1/640x360/NoDsJA9P73rpIJTu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104098796376567808/vid/avc1/1920x1080/6sZv2EOhf4X_wkZ_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104098796376567808/pl/XkYp4fqUthg_9Ue0.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104098796376567808/vid/avc1/1280x720/Nw0Cq3r_E7lI8yf1.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104098796376567808/vid/avc1/480x270/_KSr2C_MBCXy38vy.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2104098835308171324",
+        "created_at": "2026-09-27T08:47:09.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104130714258362508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2076673089941950464",
+              "start": 0,
+              "username": "niklashausen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104130714258362508",
+        "in_reply_to_user_id": "2076673089941950464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104098835308171324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niklashausen 摸摸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104098796376567808"
+          ]
+        },
+        "author_id": "2076673089941950464",
+        "conversation_id": "2104098835308171324",
+        "created_at": "2026-09-27T06:40:29.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104098835308171324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUYs14gLIh",
+              "end": 26,
+              "expanded_url": "https://x.com/niklashausen/status/2104098835308171324/video/1",
+              "media_key": "13_2104098796376567808",
+              "start": 3,
+              "url": "https://t.co/TUYs14gLIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104098835308171324",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104098796376567808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧 https://t.co/TUYs14gLIh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104130714258362508",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 3628,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:22:16.000Z",
+        "description": "mtf HRT 26.7.18 /看到同类关注都会回的/07/可以叫我小蒲或者茹茹哦",
+        "id": "2076673089941950464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104113827705217392",
+        "name": "丁香蒲式耳🍥",
+        "pinned_tweet_id": "2098373789428093188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076673089941950464/1786650058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098769080207736832/7kyElbuj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 155,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "niklashausen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
